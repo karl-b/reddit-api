@@ -1,0 +1,2654 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": null,
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "arstechnica.com",
+            "banned_by": null,
+            "media_embed": {
+            },
+            "subreddit": "hoggit",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "suggested_sort": null,
+            "user_reports": [
+
+            ],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "446ba4",
+            "from_kind": null,
+            "gilded": 0,
+            "archived": false,
+            "clicked": false,
+            "report_reasons": [
+
+            ],
+            "author": "AirborneToast",
+            "media": null,
+            "name": "t3_446ba4",
+            "score": 48,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://i.redditmedia.com/4ohA8JQfuxM9g8BHHwFYMMm-ndVBf06u_JNi2kkXjD0.jpg?s=8dfff9f3af36345343e7400a249ad17f",
+                    "width": 640,
+                    "height": 426
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://i.redditmedia.com/4ohA8JQfuxM9g8BHHwFYMMm-ndVBf06u_JNi2kkXjD0.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=00d8ca60d044c014246636719f05d8ac",
+                      "width": 108,
+                      "height": 71
+                    },
+                    {
+                      "url": "https://i.redditmedia.com/4ohA8JQfuxM9g8BHHwFYMMm-ndVBf06u_JNi2kkXjD0.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=4f77b627de7d27940b39224e979e3824",
+                      "width": 216,
+                      "height": 143
+                    },
+                    {
+                      "url": "https://i.redditmedia.com/4ohA8JQfuxM9g8BHHwFYMMm-ndVBf06u_JNi2kkXjD0.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=3fac62ab2a53c39d3ccc1d88d37dabca",
+                      "width": 320,
+                      "height": 213
+                    },
+                    {
+                      "url": "https://i.redditmedia.com/4ohA8JQfuxM9g8BHHwFYMMm-ndVBf06u_JNi2kkXjD0.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;s=639a45a46c7baf6f02e91cbf8e7f84fd",
+                      "width": 640,
+                      "height": 426
+                    }
+                  ],
+                  "variants": {
+                  },
+                  "id": "I83MDYSMHOAh517ALf7yDFCydWNirb7n0zt_EpVDiBw"
+                }
+              ]
+            },
+            "thumbnail": "http://b.thumbs.redditmedia.com/9GC2O816JVJoGLYA6F89Sp7DNNYnXcEon9oxKTrLDec.jpg",
+            "subreddit_id": "t5_2tifv",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [
+
+            ],
+            "secure_media_embed": {
+            },
+            "saved": false,
+            "removal_reason": null,
+            "post_hint": "link",
+            "stickied": false,
+            "from": null,
+            "is_self": false,
+            "from_id": null,
+            "permalink": "/r/hoggit/comments/446ba4/fk_yeah_hogs_remain_in_business_until_at_least/",
+            "locked": false,
+            "hide_score": false,
+            "created": 1454636017.0,
+            "url": "http://arstechnica.com/information-technology/2016/02/a-10-to-fly-until-2022-as-dod-test-chief-warns-against-f-35-block-buy/",
+            "author_flair_text": null,
+            "quarantine": false,
+            "title": "F**k yeah! Hogs remain in business until at least 2022",
+            "created_utc": 1454607217.0,
+            "ups": 48,
+            "upvote_ratio": 0.86,
+            "num_comments": 63,
+            "visited": false,
+            "num_reports": 0,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": null,
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2tifv",
+            "banned_by": null,
+            "removal_reason": null,
+            "link_id": "t3_446ba4",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": null,
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2tifv",
+                      "banned_by": null,
+                      "removal_reason": null,
+                      "link_id": "t3_446ba4",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": null,
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2tifv",
+                                "banned_by": null,
+                                "removal_reason": null,
+                                "link_id": "t3_446ba4",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": null,
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2tifv",
+                                          "banned_by": null,
+                                          "removal_reason": null,
+                                          "link_id": "t3_446ba4",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": null,
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2tifv",
+                                                    "banned_by": null,
+                                                    "removal_reason": null,
+                                                    "link_id": "t3_446ba4",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": null,
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2tifv",
+                                                              "banned_by": null,
+                                                              "removal_reason": null,
+                                                              "link_id": "t3_446ba4",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": null,
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2tifv",
+                                                                        "banned_by": null,
+                                                                        "removal_reason": null,
+                                                                        "link_id": "t3_446ba4",
+                                                                        "likes": null,
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "modhash": null,
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2tifv",
+                                                                                  "banned_by": null,
+                                                                                  "removal_reason": null,
+                                                                                  "link_id": "t3_446ba4",
+                                                                                  "likes": null,
+                                                                                  "replies": {
+                                                                                    "kind": "Listing",
+                                                                                    "data": {
+                                                                                      "modhash": null,
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "kind": "t1",
+                                                                                          "data": {
+                                                                                            "subreddit_id": "t5_2tifv",
+                                                                                            "banned_by": null,
+                                                                                            "removal_reason": null,
+                                                                                            "link_id": "t3_446ba4",
+                                                                                            "likes": null,
+                                                                                            "replies": {
+                                                                                              "kind": "Listing",
+                                                                                              "data": {
+                                                                                                "modhash": null,
+                                                                                                "children": [
+                                                                                                  {
+                                                                                                    "kind": "t1",
+                                                                                                    "data": {
+                                                                                                      "subreddit_id": "t5_2tifv",
+                                                                                                      "banned_by": null,
+                                                                                                      "removal_reason": null,
+                                                                                                      "link_id": "t3_446ba4",
+                                                                                                      "likes": null,
+                                                                                                      "replies": {
+                                                                                                        "kind": "Listing",
+                                                                                                        "data": {
+                                                                                                          "modhash": null,
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "kind": "more",
+                                                                                                              "data": {
+                                                                                                                "count": 0,
+                                                                                                                "parent_id": "t1_czoxmg9",
+                                                                                                                "children": [
+                                                                                                                  "czoz7ur"
+                                                                                                                ],
+                                                                                                                "name": "t1_czoz7ur",
+                                                                                                                "id": "czoz7ur"
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ],
+                                                                                                          "after": null,
+                                                                                                          "before": null
+                                                                                                        }
+                                                                                                      },
+                                                                                                      "user_reports": [
+
+                                                                                                      ],
+                                                                                                      "saved": false,
+                                                                                                      "id": "czoxmg9",
+                                                                                                      "gilded": 0,
+                                                                                                      "archived": false,
+                                                                                                      "report_reasons": [
+
+                                                                                                      ],
+                                                                                                      "author": "Stone_313",
+                                                                                                      "parent_id": "t1_czox6pe",
+                                                                                                      "score": 2,
+                                                                                                      "approved_by": null,
+                                                                                                      "controversiality": 0,
+                                                                                                      "body": "That sounds like the air forces way to say 'welcome to Iraq' xD\n\nThe combat landings/takeoffs really would make me think that this is not how this thing is suppose to fly. I mean those no restriction takeoffs by fighters are cool as fuck but it's really weird seeing big transpos pulling that hard after takeoff..",
+                                                                                                      "edited": false,
+                                                                                                      "author_flair_css_class": "",
+                                                                                                      "downs": 0,
+                                                                                                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;That sounds like the air forces way to say &amp;#39;welcome to Iraq&amp;#39; xD&lt;/p&gt;\n\n&lt;p&gt;The combat landings/takeoffs really would make me think that this is not how this thing is suppose to fly. I mean those no restriction takeoffs by fighters are cool as fuck but it&amp;#39;s really weird seeing big transpos pulling that hard after takeoff..&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                                      "subreddit": "hoggit",
+                                                                                                      "name": "t1_czoxmg9",
+                                                                                                      "score_hidden": false,
+                                                                                                      "stickied": false,
+                                                                                                      "created": 1454718002.0,
+                                                                                                      "author_flair_text": "Bingo Fuel",
+                                                                                                      "created_utc": 1454689202.0,
+                                                                                                      "distinguished": null,
+                                                                                                      "mod_reports": [
+
+                                                                                                      ],
+                                                                                                      "num_reports": 0,
+                                                                                                      "ups": 2
+                                                                                                    }
+                                                                                                  }
+                                                                                                ],
+                                                                                                "after": null,
+                                                                                                "before": null
+                                                                                              }
+                                                                                            },
+                                                                                            "user_reports": [
+
+                                                                                            ],
+                                                                                            "saved": false,
+                                                                                            "id": "czox6pe",
+                                                                                            "gilded": 0,
+                                                                                            "archived": false,
+                                                                                            "report_reasons": [
+
+                                                                                            ],
+                                                                                            "author": "TankerD18",
+                                                                                            "parent_id": "t1_czowtit",
+                                                                                            "score": 3,
+                                                                                            "approved_by": null,
+                                                                                            "controversiality": 0,
+                                                                                            "body": "I've never been aboard a really crazy combat takeoff but I rode a C-130 into Mosul back during the hottest part of the surge and holy fucking shit man... A combat landing from the cargo compartment is scary as shit. You are just minding your own business, hating your life cause you're riding in the back of a C-130 then next thing you know you're falling the fuck out of the sky like a brick. To the uninitiated (which I was, I was going in to my first tour) you feel like you're gonna die. The seatbelt is the only thing holding you in the seat, might as well be one of those zero-gravity experience flights. Then you're falling, falling, falling, your life is flashing before your eyes then the plane pulls back hard as hell, reverse thrust throttles up and you stop really quick.\n\nScarier than hell when you don't know it's coming, but man was it cool. ",
+                                                                                            "edited": false,
+                                                                                            "author_flair_css_class": null,
+                                                                                            "downs": 0,
+                                                                                            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;ve never been aboard a really crazy combat takeoff but I rode a C-130 into Mosul back during the hottest part of the surge and holy fucking shit man... A combat landing from the cargo compartment is scary as shit. You are just minding your own business, hating your life cause you&amp;#39;re riding in the back of a C-130 then next thing you know you&amp;#39;re falling the fuck out of the sky like a brick. To the uninitiated (which I was, I was going in to my first tour) you feel like you&amp;#39;re gonna die. The seatbelt is the only thing holding you in the seat, might as well be one of those zero-gravity experience flights. Then you&amp;#39;re falling, falling, falling, your life is flashing before your eyes then the plane pulls back hard as hell, reverse thrust throttles up and you stop really quick.&lt;/p&gt;\n\n&lt;p&gt;Scarier than hell when you don&amp;#39;t know it&amp;#39;s coming, but man was it cool. &lt;/p&gt;\n&lt;/div&gt;",
+                                                                                            "subreddit": "hoggit",
+                                                                                            "name": "t1_czox6pe",
+                                                                                            "score_hidden": false,
+                                                                                            "stickied": false,
+                                                                                            "created": 1454717335.0,
+                                                                                            "author_flair_text": null,
+                                                                                            "created_utc": 1454688535.0,
+                                                                                            "distinguished": null,
+                                                                                            "mod_reports": [
+
+                                                                                            ],
+                                                                                            "num_reports": 0,
+                                                                                            "ups": 3
+                                                                                          }
+                                                                                        }
+                                                                                      ],
+                                                                                      "after": null,
+                                                                                      "before": null
+                                                                                    }
+                                                                                  },
+                                                                                  "user_reports": [
+
+                                                                                  ],
+                                                                                  "saved": false,
+                                                                                  "id": "czowtit",
+                                                                                  "gilded": 0,
+                                                                                  "archived": false,
+                                                                                  "report_reasons": [
+
+                                                                                  ],
+                                                                                  "author": "Stone_313",
+                                                                                  "parent_id": "t1_czorx7b",
+                                                                                  "score": 2,
+                                                                                  "approved_by": null,
+                                                                                  "controversiality": 0,
+                                                                                  "body": "Soviet ATGM very stronk but not accurate. :P\n\nDo they actually do the [combat takeoff/landings](https://www.youtube.com/watch?v=Ca3NFShK5Xs)?",
+                                                                                  "edited": false,
+                                                                                  "author_flair_css_class": "",
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Soviet ATGM very stronk but not accurate. :P&lt;/p&gt;\n\n&lt;p&gt;Do they actually do the &lt;a href=\"https://www.youtube.com/watch?v=Ca3NFShK5Xs\"&gt;combat takeoff/landings&lt;/a&gt;?&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "hoggit",
+                                                                                  "name": "t1_czowtit",
+                                                                                  "score_hidden": false,
+                                                                                  "stickied": false,
+                                                                                  "created": 1454716789.0,
+                                                                                  "author_flair_text": "Bingo Fuel",
+                                                                                  "created_utc": 1454687989.0,
+                                                                                  "distinguished": null,
+                                                                                  "mod_reports": [
+
+                                                                                  ],
+                                                                                  "num_reports": 0,
+                                                                                  "ups": 2
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "after": null,
+                                                                            "before": null
+                                                                          }
+                                                                        },
+                                                                        "user_reports": [
+
+                                                                        ],
+                                                                        "saved": false,
+                                                                        "id": "czorx7b",
+                                                                        "gilded": 0,
+                                                                        "archived": false,
+                                                                        "report_reasons": [
+
+                                                                        ],
+                                                                        "author": "TankerD18",
+                                                                        "parent_id": "t1_czonsis",
+                                                                        "score": 2,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "Haha right? Yeah they missed every time, luckily. Every missile they were shooting was some old ass Soviet POS, makes you scratch your head when you think about where they were probably getting them from. But I wont go into that on here. ",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Haha right? Yeah they missed every time, luckily. Every missile they were shooting was some old ass Soviet POS, makes you scratch your head when you think about where they were probably getting them from. But I wont go into that on here. &lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "hoggit",
+                                                                        "name": "t1_czorx7b",
+                                                                        "score_hidden": false,
+                                                                        "stickied": false,
+                                                                        "created": 1454707956.0,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1454679156.0,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [
+
+                                                                        ],
+                                                                        "num_reports": 0,
+                                                                        "ups": 2
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [
+
+                                                              ],
+                                                              "saved": false,
+                                                              "id": "czonsis",
+                                                              "gilded": 0,
+                                                              "archived": false,
+                                                              "report_reasons": [
+
+                                                              ],
+                                                              "author": "Stone_313",
+                                                              "parent_id": "t1_czog01e",
+                                                              "score": 2,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "I'm not suprised tbh. It's a big fat target..",
+                                                              "edited": false,
+                                                              "author_flair_css_class": "",
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m not suprised tbh. It&amp;#39;s a big fat target..&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "hoggit",
+                                                              "name": "t1_czonsis",
+                                                              "score_hidden": false,
+                                                              "stickied": false,
+                                                              "created": 1454693315.0,
+                                                              "author_flair_text": "Bingo Fuel",
+                                                              "created_utc": 1454664515.0,
+                                                              "distinguished": null,
+                                                              "mod_reports": [
+
+                                                              ],
+                                                              "num_reports": 0,
+                                                              "ups": 2
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [
+
+                                                    ],
+                                                    "saved": false,
+                                                    "id": "czog01e",
+                                                    "gilded": 0,
+                                                    "archived": false,
+                                                    "report_reasons": [
+
+                                                    ],
+                                                    "author": "TankerD18",
+                                                    "parent_id": "t1_czo7vdk",
+                                                    "score": 2,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "When I was in Iraq they tried to hit them with ATGMs when they were taking off. ",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;When I was in Iraq they tried to hit them with ATGMs when they were taking off. &lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "hoggit",
+                                                    "name": "t1_czog01e",
+                                                    "score_hidden": false,
+                                                    "stickied": false,
+                                                    "created": 1454673112.0,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1454644312.0,
+                                                    "distinguished": null,
+                                                    "mod_reports": [
+
+                                                    ],
+                                                    "num_reports": 0,
+                                                    "ups": 2
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [
+
+                                          ],
+                                          "saved": false,
+                                          "id": "czo7vdk",
+                                          "gilded": 0,
+                                          "archived": false,
+                                          "report_reasons": [
+
+                                          ],
+                                          "author": "Stone_313",
+                                          "parent_id": "t1_czo4yag",
+                                          "score": 3,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Agreed. You could prolly hit it with an RPG during daytime.. :P",
+                                          "edited": false,
+                                          "author_flair_css_class": "",
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Agreed. You could prolly hit it with an RPG during daytime.. :P&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "hoggit",
+                                          "name": "t1_czo7vdk",
+                                          "score_hidden": false,
+                                          "stickied": false,
+                                          "created": 1454660069.0,
+                                          "author_flair_text": "Bingo Fuel",
+                                          "created_utc": 1454631269.0,
+                                          "distinguished": null,
+                                          "mod_reports": [
+
+                                          ],
+                                          "num_reports": 0,
+                                          "ups": 3
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [
+
+                                ],
+                                "saved": false,
+                                "id": "czo4yag",
+                                "gilded": 0,
+                                "archived": false,
+                                "report_reasons": [
+
+                                ],
+                                "author": "TankerD18",
+                                "parent_id": "t1_czntd4y",
+                                "score": 4,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Good luck dodging anything in a big ol' C-130. ",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Good luck dodging anything in a big ol&amp;#39; C-130. &lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "hoggit",
+                                "name": "t1_czo4yag",
+                                "score_hidden": false,
+                                "stickied": false,
+                                "created": 1454655428.0,
+                                "author_flair_text": null,
+                                "created_utc": 1454626628.0,
+                                "distinguished": null,
+                                "mod_reports": [
+
+                                ],
+                                "num_reports": 0,
+                                "ups": 4
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [
+
+                      ],
+                      "saved": false,
+                      "id": "czntd4y",
+                      "gilded": 0,
+                      "archived": false,
+                      "report_reasons": [
+
+                      ],
+                      "author": "Stone_313",
+                      "parent_id": "t1_cznst2z",
+                      "score": 13,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "AC-130's hunt at night mostly due to them being such a big ass target. Also lack of maneuverability and slow speeds makes MANPADS even bigger threat during daytime.",
+                      "edited": false,
+                      "author_flair_css_class": "",
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;AC-130&amp;#39;s hunt at night mostly due to them being such a big ass target. Also lack of maneuverability and slow speeds makes MANPADS even bigger threat during daytime.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "hoggit",
+                      "name": "t1_czntd4y",
+                      "score_hidden": false,
+                      "stickied": false,
+                      "created": 1454639284.0,
+                      "author_flair_text": "Bingo Fuel",
+                      "created_utc": 1454610484.0,
+                      "distinguished": null,
+                      "mod_reports": [
+
+                      ],
+                      "num_reports": 0,
+                      "ups": 13
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2tifv",
+                      "banned_by": null,
+                      "removal_reason": null,
+                      "link_id": "t3_446ba4",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": null,
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2tifv",
+                                "banned_by": null,
+                                "removal_reason": null,
+                                "link_id": "t3_446ba4",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": null,
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2tifv",
+                                          "banned_by": null,
+                                          "removal_reason": null,
+                                          "link_id": "t3_446ba4",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": null,
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2tifv",
+                                                    "banned_by": null,
+                                                    "removal_reason": null,
+                                                    "link_id": "t3_446ba4",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": null,
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2tifv",
+                                                              "banned_by": null,
+                                                              "removal_reason": null,
+                                                              "link_id": "t3_446ba4",
+                                                              "likes": null,
+                                                              "replies": "",
+                                                              "user_reports": [
+
+                                                              ],
+                                                              "saved": false,
+                                                              "id": "cznxbt9",
+                                                              "gilded": 0,
+                                                              "archived": false,
+                                                              "report_reasons": [
+
+                                                              ],
+                                                              "author": "Stone_313",
+                                                              "parent_id": "t1_cznx1nv",
+                                                              "score": 3,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "[Under the wings](http://i.kinja-img.com/gawker-media/image/upload/s--fBUPx-XP--/c_scale,fl_progressive,q_80,w_800/ywi1pin5syukxy6zynq1.jpg). It also has a system called '[Gunslinger](http://media.defenseindustrydaily.com/images/ORD_Harvest_HAWK_Derringer_Door_US_NAVAIR_lg.jpg)' that allows it to basically drop AGM-176 Griffin missiles and glide bombs..\n\n*edit - better gunslinger pic",
+                                                              "edited": 1454616722.0,
+                                                              "author_flair_css_class": "",
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"http://i.kinja-img.com/gawker-media/image/upload/s--fBUPx-XP--/c_scale,fl_progressive,q_80,w_800/ywi1pin5syukxy6zynq1.jpg\"&gt;Under the wings&lt;/a&gt;. It also has a system called &amp;#39;&lt;a href=\"http://media.defenseindustrydaily.com/images/ORD_Harvest_HAWK_Derringer_Door_US_NAVAIR_lg.jpg\"&gt;Gunslinger&lt;/a&gt;&amp;#39; that allows it to basically drop AGM-176 Griffin missiles and glide bombs..&lt;/p&gt;\n\n&lt;p&gt;*edit - better gunslinger pic&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "hoggit",
+                                                              "name": "t1_cznxbt9",
+                                                              "score_hidden": false,
+                                                              "stickied": false,
+                                                              "created": 1454644678.0,
+                                                              "author_flair_text": "Bingo Fuel",
+                                                              "created_utc": 1454615878.0,
+                                                              "distinguished": null,
+                                                              "mod_reports": [
+
+                                                              ],
+                                                              "num_reports": 0,
+                                                              "ups": 3
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [
+
+                                                    ],
+                                                    "saved": false,
+                                                    "id": "cznx1nv",
+                                                    "gilded": 0,
+                                                    "archived": false,
+                                                    "report_reasons": [
+
+                                                    ],
+                                                    "author": "ClimbingC",
+                                                    "parent_id": "t1_cznvp9j",
+                                                    "score": 3,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Regarding the bombs, do they store them inside the aircraft and just lob them out the back ramp (I'm imagining a very muscular air load master type with an LGBon his shoulder just throwing them out the back door)?  I guess it could carry quite a few of them.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Regarding the bombs, do they store them inside the aircraft and just lob them out the back ramp (I&amp;#39;m imagining a very muscular air load master type with an LGBon his shoulder just throwing them out the back door)?  I guess it could carry quite a few of them.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "hoggit",
+                                                    "name": "t1_cznx1nv",
+                                                    "score_hidden": false,
+                                                    "stickied": false,
+                                                    "created": 1454644308.0,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1454615508.0,
+                                                    "distinguished": null,
+                                                    "mod_reports": [
+
+                                                    ],
+                                                    "num_reports": 0,
+                                                    "ups": 3
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [
+
+                                          ],
+                                          "saved": false,
+                                          "id": "cznvp9j",
+                                          "gilded": 0,
+                                          "archived": false,
+                                          "report_reasons": [
+
+                                          ],
+                                          "author": "Stone_313",
+                                          "parent_id": "t1_cznuoaa",
+                                          "score": 6,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Ofc they CAN be used during the day if they are really needed. But there is only 47 of them, and they make a big target for all sorts of weapons(apperantly they like to operate at 7k feet'ish). So it's really a disaster waiting to happen. So it's cheaper and safer to get the hogs, vipers/etc to provide CAS during the daytime ops.\n\nAnd from what i have gathered, the stinger(AC-130W) model actually can carry laser guided bombs(GBU-39) now. So it doesn't have to loiter straight over the targets to provide that precision whoop-ass. D:\n\nFYI, i'm no expert on the AC-130, these are just things i have gotten from the interwebs, and as we all know, it's not exactly 100% accurate info. :P",
+                                          "edited": false,
+                                          "author_flair_css_class": "",
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Ofc they CAN be used during the day if they are really needed. But there is only 47 of them, and they make a big target for all sorts of weapons(apperantly they like to operate at 7k feet&amp;#39;ish). So it&amp;#39;s really a disaster waiting to happen. So it&amp;#39;s cheaper and safer to get the hogs, vipers/etc to provide CAS during the daytime ops.&lt;/p&gt;\n\n&lt;p&gt;And from what i have gathered, the stinger(AC-130W) model actually can carry laser guided bombs(GBU-39) now. So it doesn&amp;#39;t have to loiter straight over the targets to provide that precision whoop-ass. D:&lt;/p&gt;\n\n&lt;p&gt;FYI, i&amp;#39;m no expert on the AC-130, these are just things i have gotten from the interwebs, and as we all know, it&amp;#39;s not exactly 100% accurate info. :P&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "hoggit",
+                                          "name": "t1_cznvp9j",
+                                          "score_hidden": false,
+                                          "stickied": false,
+                                          "created": 1454642463.0,
+                                          "author_flair_text": "Bingo Fuel",
+                                          "created_utc": 1454613663.0,
+                                          "distinguished": null,
+                                          "mod_reports": [
+
+                                          ],
+                                          "num_reports": 0,
+                                          "ups": 6
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [
+
+                                ],
+                                "saved": false,
+                                "id": "cznuoaa",
+                                "gilded": 0,
+                                "archived": false,
+                                "report_reasons": [
+
+                                ],
+                                "author": "AviatorMoser",
+                                "parent_id": "t1_cznudwq",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "I see the expense side that's for sure.\n\nBut is the nocturnal limitation still true today? I thought I heard recently they are now being used in day ops because they are being upgraded to cope with the MANPAD threat.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I see the expense side that&amp;#39;s for sure.&lt;/p&gt;\n\n&lt;p&gt;But is the nocturnal limitation still true today? I thought I heard recently they are now being used in day ops because they are being upgraded to cope with the MANPAD threat.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "hoggit",
+                                "name": "t1_cznuoaa",
+                                "score_hidden": false,
+                                "stickied": false,
+                                "created": 1454641056.0,
+                                "author_flair_text": null,
+                                "created_utc": 1454612256.0,
+                                "distinguished": null,
+                                "mod_reports": [
+
+                                ],
+                                "num_reports": 0,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [
+
+                      ],
+                      "saved": false,
+                      "id": "cznudwq",
+                      "gilded": 0,
+                      "archived": false,
+                      "report_reasons": [
+
+                      ],
+                      "author": "LazerSturgeon",
+                      "parent_id": "t1_cznst2z",
+                      "score": 6,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "AC-130's are very expensive. \n\nPlus they're big, obvious targets that also need to get quite close to their targets. This makes them susceptible to MANPADs which means they don't like to deploy them during the day.",
+                      "edited": false,
+                      "author_flair_css_class": "",
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;AC-130&amp;#39;s are very expensive. &lt;/p&gt;\n\n&lt;p&gt;Plus they&amp;#39;re big, obvious targets that also need to get quite close to their targets. This makes them susceptible to MANPADs which means they don&amp;#39;t like to deploy them during the day.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "hoggit",
+                      "name": "t1_cznudwq",
+                      "score_hidden": false,
+                      "stickied": false,
+                      "created": 1454640671.0,
+                      "author_flair_text": "Zerbob",
+                      "created_utc": 1454611871.0,
+                      "distinguished": null,
+                      "mod_reports": [
+
+                      ],
+                      "num_reports": 0,
+                      "ups": 6
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2tifv",
+                      "banned_by": null,
+                      "removal_reason": null,
+                      "link_id": "t3_446ba4",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": null,
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2tifv",
+                                "banned_by": null,
+                                "removal_reason": null,
+                                "link_id": "t3_446ba4",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": null,
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2tifv",
+                                          "banned_by": null,
+                                          "removal_reason": null,
+                                          "link_id": "t3_446ba4",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": null,
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2tifv",
+                                                    "banned_by": null,
+                                                    "removal_reason": null,
+                                                    "link_id": "t3_446ba4",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": null,
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2tifv",
+                                                              "banned_by": null,
+                                                              "removal_reason": null,
+                                                              "link_id": "t3_446ba4",
+                                                              "likes": null,
+                                                              "replies": "",
+                                                              "user_reports": [
+
+                                                              ],
+                                                              "saved": false,
+                                                              "id": "czo2q6o",
+                                                              "gilded": 0,
+                                                              "archived": false,
+                                                              "report_reasons": [
+
+                                                              ],
+                                                              "author": "tmoney321",
+                                                              "parent_id": "t1_czo2nsu",
+                                                              "score": -1,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "I love AC130s. I spent about an hour yesterday watching gun cam footage and listening to how the crew communicates during a sortie.",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I love AC130s. I spent about an hour yesterday watching gun cam footage and listening to how the crew communicates during a sortie.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "hoggit",
+                                                              "name": "t1_czo2q6o",
+                                                              "score_hidden": false,
+                                                              "stickied": false,
+                                                              "created": 1454652118.0,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1454623318.0,
+                                                              "distinguished": null,
+                                                              "mod_reports": [
+
+                                                              ],
+                                                              "num_reports": 0,
+                                                              "ups": -1
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [
+
+                                                    ],
+                                                    "saved": false,
+                                                    "id": "czo2nsu",
+                                                    "gilded": 0,
+                                                    "archived": false,
+                                                    "report_reasons": [
+
+                                                    ],
+                                                    "author": "AviatorMoser",
+                                                    "parent_id": "t1_czo1mqr",
+                                                    "score": 2,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "TIL I learned why our defense budget is the largest in the world.\n\n\"MOAR AC-130s!\"",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;TIL I learned why our defense budget is the largest in the world.&lt;/p&gt;\n\n&lt;p&gt;&amp;quot;MOAR AC-130s!&amp;quot;&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "hoggit",
+                                                    "name": "t1_czo2nsu",
+                                                    "score_hidden": false,
+                                                    "stickied": false,
+                                                    "created": 1454652020.0,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1454623220.0,
+                                                    "distinguished": null,
+                                                    "mod_reports": [
+
+                                                    ],
+                                                    "num_reports": 0,
+                                                    "ups": 2
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [
+
+                                          ],
+                                          "saved": false,
+                                          "id": "czo1mqr",
+                                          "gilded": 0,
+                                          "archived": false,
+                                          "report_reasons": [
+
+                                          ],
+                                          "author": "tmoney321",
+                                          "parent_id": "t1_cznuv6y",
+                                          "score": 3,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Holy shit, $190M! Today I learned...",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Holy shit, $190M! Today I learned...&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "hoggit",
+                                          "name": "t1_czo1mqr",
+                                          "score_hidden": false,
+                                          "stickied": false,
+                                          "created": 1454650585.0,
+                                          "author_flair_text": null,
+                                          "created_utc": 1454621785.0,
+                                          "distinguished": null,
+                                          "mod_reports": [
+
+                                          ],
+                                          "num_reports": 0,
+                                          "ups": 3
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [
+
+                                ],
+                                "saved": false,
+                                "id": "cznuv6y",
+                                "gilded": 0,
+                                "archived": false,
+                                "report_reasons": [
+
+                                ],
+                                "author": "AviatorMoser",
+                                "parent_id": "t1_cznuqa2",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Yeah, I just read the unit cost for an AC-130U.\n\nHoly crap.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yeah, I just read the unit cost for an AC-130U.&lt;/p&gt;\n\n&lt;p&gt;Holy crap.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "hoggit",
+                                "name": "t1_cznuv6y",
+                                "score_hidden": false,
+                                "stickied": false,
+                                "created": 1454641312.0,
+                                "author_flair_text": null,
+                                "created_utc": 1454612512.0,
+                                "distinguished": null,
+                                "mod_reports": [
+
+                                ],
+                                "num_reports": 0,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [
+
+                      ],
+                      "saved": false,
+                      "id": "cznuqa2",
+                      "gilded": 0,
+                      "archived": false,
+                      "report_reasons": [
+
+                      ],
+                      "author": "Moofies",
+                      "parent_id": "t1_cznst2z",
+                      "score": 3,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Cost, survivability, flexibility, precision, and the variety of weapons available. You can have a fair few A-10s for the same cost as an AC-130, so you get operational flexibility there too.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Cost, survivability, flexibility, precision, and the variety of weapons available. You can have a fair few A-10s for the same cost as an AC-130, so you get operational flexibility there too.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "hoggit",
+                      "name": "t1_cznuqa2",
+                      "score_hidden": false,
+                      "stickied": false,
+                      "created": 1454641129.0,
+                      "author_flair_text": null,
+                      "created_utc": 1454612329.0,
+                      "distinguished": null,
+                      "mod_reports": [
+
+                      ],
+                      "num_reports": 0,
+                      "ups": 3
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2tifv",
+                      "banned_by": null,
+                      "removal_reason": null,
+                      "link_id": "t3_446ba4",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [
+
+                      ],
+                      "saved": false,
+                      "id": "czo3aoi",
+                      "gilded": 0,
+                      "archived": false,
+                      "report_reasons": [
+
+                      ],
+                      "author": "RalphNLD",
+                      "parent_id": "t1_cznst2z",
+                      "score": 3,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Cost, size, manoeuvrability. And you can't bus over an entire AC-130 every time a bunch of insurgents take a pot-shot at a convoy of humvees.",
+                      "edited": false,
+                      "author_flair_css_class": "",
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Cost, size, manoeuvrability. And you can&amp;#39;t bus over an entire AC-130 every time a bunch of insurgents take a pot-shot at a convoy of humvees.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "hoggit",
+                      "name": "t1_czo3aoi",
+                      "score_hidden": false,
+                      "stickied": false,
+                      "created": 1454652949.0,
+                      "author_flair_text": "When in doubt, apply Maverick",
+                      "created_utc": 1454624149.0,
+                      "distinguished": null,
+                      "mod_reports": [
+
+                      ],
+                      "num_reports": 0,
+                      "ups": 3
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2tifv",
+                      "banned_by": null,
+                      "removal_reason": null,
+                      "link_id": "t3_446ba4",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": null,
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2tifv",
+                                "banned_by": null,
+                                "removal_reason": null,
+                                "link_id": "t3_446ba4",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": null,
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2tifv",
+                                          "banned_by": null,
+                                          "removal_reason": null,
+                                          "link_id": "t3_446ba4",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [
+
+                                          ],
+                                          "saved": false,
+                                          "id": "cznt9jz",
+                                          "gilded": 0,
+                                          "archived": false,
+                                          "report_reasons": [
+
+                                          ],
+                                          "author": "Spookies_",
+                                          "parent_id": "t1_cznt7ja",
+                                          "score": 2,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "I'd assume weapon load too. ",
+                                          "edited": false,
+                                          "author_flair_css_class": "",
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;d assume weapon load too. &lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "hoggit",
+                                          "name": "t1_cznt9jz",
+                                          "score_hidden": false,
+                                          "stickied": false,
+                                          "created": 1454639150.0,
+                                          "author_flair_text": "Steam /id/: Spookies_ | Su-25A best Su-25",
+                                          "created_utc": 1454610350.0,
+                                          "distinguished": null,
+                                          "mod_reports": [
+
+                                          ],
+                                          "num_reports": 0,
+                                          "ups": 2
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [
+
+                                ],
+                                "saved": false,
+                                "id": "cznt7ja",
+                                "gilded": 0,
+                                "archived": false,
+                                "report_reasons": [
+
+                                ],
+                                "author": "Rafal0id",
+                                "parent_id": "t1_cznsyhz",
+                                "score": 4,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Cost effectiveness?",
+                                "edited": false,
+                                "author_flair_css_class": "",
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Cost effectiveness?&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "hoggit",
+                                "name": "t1_cznt7ja",
+                                "score_hidden": false,
+                                "stickied": false,
+                                "created": 1454639072.0,
+                                "author_flair_text": "An helicopter is an accident looking for a place to happen",
+                                "created_utc": 1454610272.0,
+                                "distinguished": null,
+                                "mod_reports": [
+
+                                ],
+                                "num_reports": 0,
+                                "ups": 4
+                              }
+                            },
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2tifv",
+                                "banned_by": null,
+                                "removal_reason": null,
+                                "link_id": "t3_446ba4",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": null,
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2tifv",
+                                          "banned_by": null,
+                                          "removal_reason": null,
+                                          "link_id": "t3_446ba4",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [
+
+                                          ],
+                                          "saved": false,
+                                          "id": "cznufw1",
+                                          "gilded": 0,
+                                          "archived": false,
+                                          "report_reasons": [
+
+                                          ],
+                                          "author": "AviatorMoser",
+                                          "parent_id": "t1_czntm5t",
+                                          "score": 5,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Yeah, in the context of COIN specifically, because I don't see either platforms doing well in an area with ample, capable AA.\n\nFrom what I've read, the AC-130 has a longer loiter time, larger ammo supply, and can be configured to use the its standard configuration today of howitzers and chain guns, or equipped to use stand-off weapons such as AGM-114 Hellfires, GBU-39 SDBs, and a GBU-44s in the Stinger II configuration.\n\nNice punch.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yeah, in the context of COIN specifically, because I don&amp;#39;t see either platforms doing well in an area with ample, capable AA.&lt;/p&gt;\n\n&lt;p&gt;From what I&amp;#39;ve read, the AC-130 has a longer loiter time, larger ammo supply, and can be configured to use the its standard configuration today of howitzers and chain guns, or equipped to use stand-off weapons such as AGM-114 Hellfires, GBU-39 SDBs, and a GBU-44s in the Stinger II configuration.&lt;/p&gt;\n\n&lt;p&gt;Nice punch.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "hoggit",
+                                          "name": "t1_cznufw1",
+                                          "score_hidden": false,
+                                          "stickied": false,
+                                          "created": 1454640745.0,
+                                          "author_flair_text": null,
+                                          "created_utc": 1454611945.0,
+                                          "distinguished": null,
+                                          "mod_reports": [
+
+                                          ],
+                                          "num_reports": 0,
+                                          "ups": 5
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [
+
+                                ],
+                                "saved": false,
+                                "id": "czntm5t",
+                                "gilded": 0,
+                                "archived": false,
+                                "report_reasons": [
+
+                                ],
+                                "author": "Par4no1D",
+                                "parent_id": "t1_cznsyhz",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "In COIN? not really much more survivable.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;In COIN? not really much more survivable.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "hoggit",
+                                "name": "t1_czntm5t",
+                                "score_hidden": false,
+                                "stickied": false,
+                                "created": 1454639619.0,
+                                "author_flair_text": null,
+                                "created_utc": 1454610819.0,
+                                "distinguished": null,
+                                "mod_reports": [
+
+                                ],
+                                "num_reports": 0,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [
+
+                      ],
+                      "saved": false,
+                      "id": "cznsyhz",
+                      "gilded": 0,
+                      "archived": false,
+                      "report_reasons": [
+
+                      ],
+                      "author": "Spookies_",
+                      "parent_id": "t1_cznst2z",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Survivability? ",
+                      "edited": false,
+                      "author_flair_css_class": "",
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Survivability? &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "hoggit",
+                      "name": "t1_cznsyhz",
+                      "score_hidden": false,
+                      "stickied": false,
+                      "created": 1454638731.0,
+                      "author_flair_text": "Steam /id/: Spookies_ | Su-25A best Su-25",
+                      "created_utc": 1454609931.0,
+                      "distinguished": null,
+                      "mod_reports": [
+
+                      ],
+                      "num_reports": 0,
+                      "ups": 2
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2tifv",
+                      "banned_by": null,
+                      "removal_reason": null,
+                      "link_id": "t3_446ba4",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [
+
+                      ],
+                      "saved": false,
+                      "id": "czntscs",
+                      "gilded": 0,
+                      "archived": false,
+                      "report_reasons": [
+
+                      ],
+                      "author": "Cephelopodia",
+                      "parent_id": "t1_cznst2z",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "I have high hopes for the Textron Scorpion, or something similar. ",
+                      "edited": false,
+                      "author_flair_css_class": "",
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I have high hopes for the Textron Scorpion, or something similar. &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "hoggit",
+                      "name": "t1_czntscs",
+                      "score_hidden": false,
+                      "stickied": false,
+                      "created": 1454639854.0,
+                      "author_flair_text": "Steam: Zilch",
+                      "created_utc": 1454611054.0,
+                      "distinguished": null,
+                      "mod_reports": [
+
+                      ],
+                      "num_reports": 0,
+                      "ups": 1
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2tifv",
+                      "banned_by": null,
+                      "removal_reason": null,
+                      "link_id": "t3_446ba4",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [
+
+                      ],
+                      "saved": false,
+                      "id": "czo272x",
+                      "gilded": 0,
+                      "archived": false,
+                      "report_reasons": [
+
+                      ],
+                      "author": "OMTH",
+                      "parent_id": "t1_cznst2z",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "You'll enjoy reading this article :D \n\nhttp://foxtrotalpha.jalopnik.com/the-air-force-is-getting-a-flying-arsenal-ship-and-that-1756856445\n\nLONG LIVE THE SWING WINGS",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You&amp;#39;ll enjoy reading this article :D &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://foxtrotalpha.jalopnik.com/the-air-force-is-getting-a-flying-arsenal-ship-and-that-1756856445\"&gt;http://foxtrotalpha.jalopnik.com/the-air-force-is-getting-a-flying-arsenal-ship-and-that-1756856445&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;LONG LIVE THE SWING WINGS&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "hoggit",
+                      "name": "t1_czo272x",
+                      "score_hidden": false,
+                      "stickied": false,
+                      "created": 1454651365.0,
+                      "author_flair_text": null,
+                      "created_utc": 1454622565.0,
+                      "distinguished": null,
+                      "mod_reports": [
+
+                      ],
+                      "num_reports": 0,
+                      "ups": 1
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2tifv",
+                      "banned_by": null,
+                      "removal_reason": null,
+                      "link_id": "t3_446ba4",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [
+
+                      ],
+                      "saved": false,
+                      "id": "czouml6",
+                      "gilded": 0,
+                      "archived": false,
+                      "report_reasons": [
+
+                      ],
+                      "author": "stratjeff",
+                      "parent_id": "t1_cznst2z",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Just cost, really.\n\nThe AC-130 is just as, if not more, survivable than the A-10C in many scenarios.  It has much more robust defensive systems (way more survivable against manpads), and an onboard EWO for electronic threats (real world RWR's ain't perfect).\n\nIt also carries a much bigger punch and has much longer loiter time (since it can refuel and the crew has a bathroom).\n\nOther major constraints are performance (high in the mountains is hard on a fully-loaded 130) and exposure to large caliber AAA (anything over 12.7mm will reach out and touch it).",
+                      "edited": false,
+                      "author_flair_css_class": "",
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Just cost, really.&lt;/p&gt;\n\n&lt;p&gt;The AC-130 is just as, if not more, survivable than the A-10C in many scenarios.  It has much more robust defensive systems (way more survivable against manpads), and an onboard EWO for electronic threats (real world RWR&amp;#39;s ain&amp;#39;t perfect).&lt;/p&gt;\n\n&lt;p&gt;It also carries a much bigger punch and has much longer loiter time (since it can refuel and the crew has a bathroom).&lt;/p&gt;\n\n&lt;p&gt;Other major constraints are performance (high in the mountains is hard on a fully-loaded 130) and exposure to large caliber AAA (anything over 12.7mm will reach out and touch it).&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "hoggit",
+                      "name": "t1_czouml6",
+                      "score_hidden": false,
+                      "stickied": false,
+                      "created": 1454713273.0,
+                      "author_flair_text": "Vodka powered Frogfoot.  Ingame: JeffsFrog",
+                      "created_utc": 1454684473.0,
+                      "distinguished": null,
+                      "mod_reports": [
+
+                      ],
+                      "num_reports": 0,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [
+
+            ],
+            "saved": false,
+            "id": "cznst2z",
+            "gilded": 0,
+            "archived": false,
+            "report_reasons": [
+
+            ],
+            "author": "AviatorMoser",
+            "parent_id": "t3_446ba4",
+            "score": 15,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Glad to see they are still flying.\n\nBut these CAS platforms need a proper CAS replacement. They won't fly forever. What are the advantages today of A-10s over AC-130s? Is it speed? Loitering time?",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Glad to see they are still flying.&lt;/p&gt;\n\n&lt;p&gt;But these CAS platforms need a proper CAS replacement. They won&amp;#39;t fly forever. What are the advantages today of A-10s over AC-130s? Is it speed? Loitering time?&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "hoggit",
+            "name": "t1_cznst2z",
+            "score_hidden": false,
+            "stickied": false,
+            "created": 1454638526.0,
+            "author_flair_text": null,
+            "created_utc": 1454609726.0,
+            "distinguished": null,
+            "mod_reports": [
+
+            ],
+            "num_reports": 0,
+            "ups": 15
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2tifv",
+            "banned_by": null,
+            "removal_reason": null,
+            "link_id": "t3_446ba4",
+            "likes": null,
+            "replies": "",
+            "user_reports": [
+
+            ],
+            "saved": false,
+            "id": "cznr6d0",
+            "gilded": 0,
+            "archived": false,
+            "report_reasons": [
+
+            ],
+            "author": "waytoolaz",
+            "parent_id": "t3_446ba4",
+            "score": 5,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Poor Lt. Gen. Bogdan.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Poor Lt. Gen. Bogdan.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "hoggit",
+            "name": "t1_cznr6d0",
+            "score_hidden": false,
+            "stickied": false,
+            "created": 1454636328.0,
+            "author_flair_text": null,
+            "created_utc": 1454607528.0,
+            "distinguished": null,
+            "mod_reports": [
+
+            ],
+            "num_reports": 0,
+            "ups": 5
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2tifv",
+            "banned_by": null,
+            "removal_reason": null,
+            "link_id": "t3_446ba4",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": null,
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2tifv",
+                      "banned_by": null,
+                      "removal_reason": null,
+                      "link_id": "t3_446ba4",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": null,
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2tifv",
+                                "banned_by": null,
+                                "removal_reason": null,
+                                "link_id": "t3_446ba4",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": null,
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2tifv",
+                                          "banned_by": null,
+                                          "removal_reason": null,
+                                          "link_id": "t3_446ba4",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [
+
+                                          ],
+                                          "saved": false,
+                                          "id": "czo89r2",
+                                          "gilded": 0,
+                                          "archived": false,
+                                          "report_reasons": [
+
+                                          ],
+                                          "author": "hexapodium",
+                                          "parent_id": "t1_czo7ezs",
+                                          "score": 8,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Some classified, some just not sufficiently documented in the public domain - i.e. the tech and even the implementation is not secret, just that the manufacturers won't release documentation in sufficient detail to make a DCS-level simulation. The DCS A-10 arguably would never have gotten made if it wasn't for its' origins as a training simulator for the ANG, and the wealth of info that provided to ED, who then asked if they could just strip the classified bits out and sell it.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Some classified, some just not sufficiently documented in the public domain - i.e. the tech and even the implementation is not secret, just that the manufacturers won&amp;#39;t release documentation in sufficient detail to make a DCS-level simulation. The DCS A-10 arguably would never have gotten made if it wasn&amp;#39;t for its&amp;#39; origins as a training simulator for the ANG, and the wealth of info that provided to ED, who then asked if they could just strip the classified bits out and sell it.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "hoggit",
+                                          "name": "t1_czo89r2",
+                                          "score_hidden": false,
+                                          "stickied": false,
+                                          "created": 1454660734.0,
+                                          "author_flair_text": null,
+                                          "created_utc": 1454631934.0,
+                                          "distinguished": null,
+                                          "mod_reports": [
+
+                                          ],
+                                          "num_reports": 0,
+                                          "ups": 8
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [
+
+                                ],
+                                "saved": false,
+                                "id": "czo7ezs",
+                                "gilded": 0,
+                                "archived": false,
+                                "report_reasons": [
+
+                                ],
+                                "author": "cow_simulation",
+                                "parent_id": "t1_czo3m9c",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "All classified and not able to be added to DCS, I assume?",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;All classified and not able to be added to DCS, I assume?&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "hoggit",
+                                "name": "t1_czo7ezs",
+                                "score_hidden": false,
+                                "stickied": false,
+                                "created": 1454659318.0,
+                                "author_flair_text": null,
+                                "created_utc": 1454630518.0,
+                                "distinguished": null,
+                                "mod_reports": [
+
+                                ],
+                                "num_reports": 0,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [
+
+                      ],
+                      "saved": false,
+                      "id": "czo3m9c",
+                      "gilded": 0,
+                      "archived": false,
+                      "report_reasons": [
+
+                      ],
+                      "author": "DerFritzReddit",
+                      "parent_id": "t1_czo2kqy",
+                      "score": 7,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Oh the a10c has been modernised already. It has a helmet mounted display now, and the software is way more advanced than what we have in DCS",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Oh the a10c has been modernised already. It has a helmet mounted display now, and the software is way more advanced than what we have in DCS&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "hoggit",
+                      "name": "t1_czo3m9c",
+                      "score_hidden": false,
+                      "stickied": false,
+                      "created": 1454653423.0,
+                      "author_flair_text": null,
+                      "created_utc": 1454624623.0,
+                      "distinguished": null,
+                      "mod_reports": [
+
+                      ],
+                      "num_reports": 0,
+                      "ups": 7
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [
+
+            ],
+            "saved": false,
+            "id": "czo2kqy",
+            "gilded": 0,
+            "archived": false,
+            "report_reasons": [
+
+            ],
+            "author": "-Cunning_Stunts-",
+            "parent_id": "t3_446ba4",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I wonder if they'll upgrade them to some kind of A-10D?",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I wonder if they&amp;#39;ll upgrade them to some kind of A-10D?&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "hoggit",
+            "name": "t1_czo2kqy",
+            "score_hidden": false,
+            "stickied": false,
+            "created": 1454651897.0,
+            "author_flair_text": null,
+            "created_utc": 1454623097.0,
+            "distinguished": null,
+            "mod_reports": [
+
+            ],
+            "num_reports": 0,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2tifv",
+            "banned_by": null,
+            "removal_reason": null,
+            "link_id": "t3_446ba4",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": null,
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2tifv",
+                      "banned_by": null,
+                      "removal_reason": null,
+                      "link_id": "t3_446ba4",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": null,
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2tifv",
+                                "banned_by": null,
+                                "removal_reason": null,
+                                "link_id": "t3_446ba4",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": null,
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2tifv",
+                                          "banned_by": null,
+                                          "removal_reason": null,
+                                          "link_id": "t3_446ba4",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": null,
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2tifv",
+                                                    "banned_by": null,
+                                                    "removal_reason": null,
+                                                    "link_id": "t3_446ba4",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [
+
+                                                    ],
+                                                    "saved": false,
+                                                    "id": "czo1wgf",
+                                                    "gilded": 0,
+                                                    "archived": false,
+                                                    "report_reasons": [
+
+                                                    ],
+                                                    "author": "tmoney321",
+                                                    "parent_id": "t1_cznxrgu",
+                                                    "score": 2,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "If ISIS got their hands on a BUK system, original or updated, and intelligence got word before they \"test it\", I would think it would become a tier1 priority target.\n",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;If ISIS got their hands on a BUK system, original or updated, and intelligence got word before they &amp;quot;test it&amp;quot;, I would think it would become a tier1 priority target.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "hoggit",
+                                                    "name": "t1_czo1wgf",
+                                                    "score_hidden": false,
+                                                    "stickied": false,
+                                                    "created": 1454650959.0,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1454622159.0,
+                                                    "distinguished": null,
+                                                    "mod_reports": [
+
+                                                    ],
+                                                    "num_reports": 0,
+                                                    "ups": 2
+                                                  }
+                                                },
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2tifv",
+                                                    "banned_by": null,
+                                                    "removal_reason": null,
+                                                    "link_id": "t3_446ba4",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [
+
+                                                    ],
+                                                    "saved": false,
+                                                    "id": "czo3c2g",
+                                                    "gilded": 0,
+                                                    "archived": false,
+                                                    "report_reasons": [
+
+                                                    ],
+                                                    "author": "ZakuTwo",
+                                                    "parent_id": "t1_cznxrgu",
+                                                    "score": 4,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "&gt; captured \n\nahahahahahahaha",
+                                                    "edited": false,
+                                                    "author_flair_css_class": "",
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;captured &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;ahahahahahahaha&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "hoggit",
+                                                    "name": "t1_czo3c2g",
+                                                    "score_hidden": false,
+                                                    "stickied": false,
+                                                    "created": 1454653006.0,
+                                                    "author_flair_text": "FC3 | A-10C | M-2000C | CA | NTTR",
+                                                    "created_utc": 1454624206.0,
+                                                    "distinguished": null,
+                                                    "mod_reports": [
+
+                                                    ],
+                                                    "num_reports": 0,
+                                                    "ups": 4
+                                                  }
+                                                },
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2tifv",
+                                                    "banned_by": null,
+                                                    "removal_reason": null,
+                                                    "link_id": "t3_446ba4",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": null,
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2tifv",
+                                                              "banned_by": null,
+                                                              "removal_reason": null,
+                                                              "link_id": "t3_446ba4",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": null,
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2tifv",
+                                                                        "banned_by": null,
+                                                                        "removal_reason": null,
+                                                                        "link_id": "t3_446ba4",
+                                                                        "likes": null,
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "modhash": null,
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2tifv",
+                                                                                  "banned_by": null,
+                                                                                  "removal_reason": null,
+                                                                                  "link_id": "t3_446ba4",
+                                                                                  "likes": null,
+                                                                                  "replies": {
+                                                                                    "kind": "Listing",
+                                                                                    "data": {
+                                                                                      "modhash": null,
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "kind": "t1",
+                                                                                          "data": {
+                                                                                            "subreddit_id": "t5_2tifv",
+                                                                                            "banned_by": null,
+                                                                                            "removal_reason": null,
+                                                                                            "link_id": "t3_446ba4",
+                                                                                            "likes": null,
+                                                                                            "replies": {
+                                                                                              "kind": "Listing",
+                                                                                              "data": {
+                                                                                                "modhash": null,
+                                                                                                "children": [
+                                                                                                  {
+                                                                                                    "kind": "t1",
+                                                                                                    "data": {
+                                                                                                      "subreddit_id": "t5_2tifv",
+                                                                                                      "banned_by": null,
+                                                                                                      "removal_reason": null,
+                                                                                                      "link_id": "t3_446ba4",
+                                                                                                      "likes": null,
+                                                                                                      "replies": {
+                                                                                                        "kind": "Listing",
+                                                                                                        "data": {
+                                                                                                          "modhash": null,
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "kind": "more",
+                                                                                                              "data": {
+                                                                                                                "count": 0,
+                                                                                                                "parent_id": "t1_czo4ks7",
+                                                                                                                "children": [
+
+                                                                                                                ],
+                                                                                                                "name": "t1__",
+                                                                                                                "id": "_"
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ],
+                                                                                                          "after": null,
+                                                                                                          "before": null
+                                                                                                        }
+                                                                                                      },
+                                                                                                      "user_reports": [
+
+                                                                                                      ],
+                                                                                                      "saved": false,
+                                                                                                      "id": "czo4ks7",
+                                                                                                      "gilded": 0,
+                                                                                                      "archived": false,
+                                                                                                      "report_reasons": [
+
+                                                                                                      ],
+                                                                                                      "author": "Tirak117",
+                                                                                                      "parent_id": "t1_czo4f2d",
+                                                                                                      "score": 9,
+                                                                                                      "approved_by": null,
+                                                                                                      "controversiality": 0,
+                                                                                                      "body": "The F-35A is not in service yet, so no, and the Airforce is now suffering maintenance personnel shortages thanks to their plan to retire the 'Hog fleet being thrown off by congress who understands little about aircraft procurement.\n\nThe most obvious answer from existing inventories is the F-16C, to perform the same kind of CAS that the A-10 is providing, that is to say, high altitude precision munition strikes, and they're doing that. The hog is just another bomb bus after all, with the occasional youtube video of it going BRRRRRRRRRRRRRRRRRRRRRT!, so in the grand scheme of things, this doesn't add to much. The real question is, how many hogs are left that can actually last 6 more years before they fall to pieces. It's an old airframe, and growing older.",
+                                                                                                      "edited": false,
+                                                                                                      "author_flair_css_class": null,
+                                                                                                      "downs": 0,
+                                                                                                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The F-35A is not in service yet, so no, and the Airforce is now suffering maintenance personnel shortages thanks to their plan to retire the &amp;#39;Hog fleet being thrown off by congress who understands little about aircraft procurement.&lt;/p&gt;\n\n&lt;p&gt;The most obvious answer from existing inventories is the F-16C, to perform the same kind of CAS that the A-10 is providing, that is to say, high altitude precision munition strikes, and they&amp;#39;re doing that. The hog is just another bomb bus after all, with the occasional youtube video of it going BRRRRRRRRRRRRRRRRRRRRRT!, so in the grand scheme of things, this doesn&amp;#39;t add to much. The real question is, how many hogs are left that can actually last 6 more years before they fall to pieces. It&amp;#39;s an old airframe, and growing older.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                                      "subreddit": "hoggit",
+                                                                                                      "name": "t1_czo4ks7",
+                                                                                                      "score_hidden": false,
+                                                                                                      "stickied": false,
+                                                                                                      "created": 1454654863.0,
+                                                                                                      "author_flair_text": null,
+                                                                                                      "created_utc": 1454626063.0,
+                                                                                                      "distinguished": null,
+                                                                                                      "mod_reports": [
+
+                                                                                                      ],
+                                                                                                      "num_reports": 0,
+                                                                                                      "ups": 9
+                                                                                                    }
+                                                                                                  }
+                                                                                                ],
+                                                                                                "after": null,
+                                                                                                "before": null
+                                                                                              }
+                                                                                            },
+                                                                                            "user_reports": [
+
+                                                                                            ],
+                                                                                            "saved": false,
+                                                                                            "id": "czo4f2d",
+                                                                                            "gilded": 0,
+                                                                                            "archived": false,
+                                                                                            "report_reasons": [
+
+                                                                                            ],
+                                                                                            "author": "DerFritzReddit",
+                                                                                            "parent_id": "t1_czo483a",
+                                                                                            "score": 1,
+                                                                                            "approved_by": null,
+                                                                                            "controversiality": 0,
+                                                                                            "body": "I agree. But what is the alternative to the hog atm? The f-35? \n\n",
+                                                                                            "edited": false,
+                                                                                            "author_flair_css_class": null,
+                                                                                            "downs": 0,
+                                                                                            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I agree. But what is the alternative to the hog atm? The f-35? &lt;/p&gt;\n&lt;/div&gt;",
+                                                                                            "subreddit": "hoggit",
+                                                                                            "name": "t1_czo4f2d",
+                                                                                            "score_hidden": false,
+                                                                                            "stickied": false,
+                                                                                            "created": 1454654626.0,
+                                                                                            "author_flair_text": null,
+                                                                                            "created_utc": 1454625826.0,
+                                                                                            "distinguished": null,
+                                                                                            "mod_reports": [
+
+                                                                                            ],
+                                                                                            "num_reports": 0,
+                                                                                            "ups": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ],
+                                                                                      "after": null,
+                                                                                      "before": null
+                                                                                    }
+                                                                                  },
+                                                                                  "user_reports": [
+
+                                                                                  ],
+                                                                                  "saved": false,
+                                                                                  "id": "czo483a",
+                                                                                  "gilded": 0,
+                                                                                  "archived": false,
+                                                                                  "report_reasons": [
+
+                                                                                  ],
+                                                                                  "author": "Tirak117",
+                                                                                  "parent_id": "t1_czo43xu",
+                                                                                  "score": 5,
+                                                                                  "approved_by": null,
+                                                                                  "controversiality": 0,
+                                                                                  "body": "Since 1972? Most certainly yes. Most combat losses in Vietnam were from Russian built SAMs, they were deadly. An argument can be made for low altitude terrain masking, but in a war gone hot, that puts you at the mercy of far more radar guided guns than you'd care to count. The counter is the Mavrick, which gives you standoff range, but it's razor thin margin, and during ODS, well we found just how thin that razor was.\n\nYou should never plan for the current conflict, but the next one, and while Isis lacks sophistication now, will that last?",
+                                                                                  "edited": false,
+                                                                                  "author_flair_css_class": null,
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Since 1972? Most certainly yes. Most combat losses in Vietnam were from Russian built SAMs, they were deadly. An argument can be made for low altitude terrain masking, but in a war gone hot, that puts you at the mercy of far more radar guided guns than you&amp;#39;d care to count. The counter is the Mavrick, which gives you standoff range, but it&amp;#39;s razor thin margin, and during ODS, well we found just how thin that razor was.&lt;/p&gt;\n\n&lt;p&gt;You should never plan for the current conflict, but the next one, and while Isis lacks sophistication now, will that last?&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "hoggit",
+                                                                                  "name": "t1_czo483a",
+                                                                                  "score_hidden": false,
+                                                                                  "stickied": false,
+                                                                                  "created": 1454654331.0,
+                                                                                  "author_flair_text": null,
+                                                                                  "created_utc": 1454625531.0,
+                                                                                  "distinguished": null,
+                                                                                  "mod_reports": [
+
+                                                                                  ],
+                                                                                  "num_reports": 0,
+                                                                                  "ups": 5
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "after": null,
+                                                                            "before": null
+                                                                          }
+                                                                        },
+                                                                        "user_reports": [
+
+                                                                        ],
+                                                                        "saved": false,
+                                                                        "id": "czo43xu",
+                                                                        "gilded": 0,
+                                                                        "archived": false,
+                                                                        "report_reasons": [
+
+                                                                        ],
+                                                                        "author": "DerFritzReddit",
+                                                                        "parent_id": "t1_czo3z6l",
+                                                                        "score": 1,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "Did the russians have effective Sam´s at the time the a-10 was built?\n\nAnd I think \"picking on pickup trucks\" is exactly what we need right now against ISIS :)",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Did the russians have effective Sam´s at the time the a-10 was built?&lt;/p&gt;\n\n&lt;p&gt;And I think &amp;quot;picking on pickup trucks&amp;quot; is exactly what we need right now against ISIS :)&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "hoggit",
+                                                                        "name": "t1_czo43xu",
+                                                                        "score_hidden": false,
+                                                                        "stickied": false,
+                                                                        "created": 1454654159.0,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1454625359.0,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [
+
+                                                                        ],
+                                                                        "num_reports": 0,
+                                                                        "ups": 1
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [
+
+                                                              ],
+                                                              "saved": false,
+                                                              "id": "czo3z6l",
+                                                              "gilded": 0,
+                                                              "archived": false,
+                                                              "report_reasons": [
+
+                                                              ],
+                                                              "author": "Tirak117",
+                                                              "parent_id": "t1_czo3oyg",
+                                                              "score": 3,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "Not really no. While that's certainly the original intention, it simply doesn't have the armor to defeat area denial SAMs or play in close to radar guided autocannons. In an actual combat environment, the A-10 needs huge amounts of support. If the A-10 were sent back in time to the 1950s it'd be a monster, but now, it's only good for picking on pickup trucks.",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Not really no. While that&amp;#39;s certainly the original intention, it simply doesn&amp;#39;t have the armor to defeat area denial SAMs or play in close to radar guided autocannons. In an actual combat environment, the A-10 needs huge amounts of support. If the A-10 were sent back in time to the 1950s it&amp;#39;d be a monster, but now, it&amp;#39;s only good for picking on pickup trucks.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "hoggit",
+                                                              "name": "t1_czo3z6l",
+                                                              "score_hidden": false,
+                                                              "stickied": false,
+                                                              "created": 1454653957.0,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1454625157.0,
+                                                              "distinguished": null,
+                                                              "mod_reports": [
+
+                                                              ],
+                                                              "num_reports": 0,
+                                                              "ups": 3
+                                                            }
+                                                          },
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2tifv",
+                                                              "banned_by": null,
+                                                              "removal_reason": null,
+                                                              "link_id": "t3_446ba4",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": null,
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "more",
+                                                                      "data": {
+                                                                        "count": 3,
+                                                                        "parent_id": "t1_czogd4c",
+                                                                        "children": [
+                                                                          "czolbn9",
+                                                                          "czoqyaa"
+                                                                        ],
+                                                                        "name": "t1_czolbn9",
+                                                                        "id": "czolbn9"
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [
+
+                                                              ],
+                                                              "saved": false,
+                                                              "id": "czogd4c",
+                                                              "gilded": 0,
+                                                              "archived": false,
+                                                              "report_reasons": [
+
+                                                              ],
+                                                              "author": "GeneUnit90",
+                                                              "parent_id": "t1_czo3oyg",
+                                                              "score": 3,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "Not really.  IIRC, original casualty projections if the Soviets pushed into West Germany to try and take Europe were %100 by the end of the first week at the least.  It might have been as fast as 48 hours.  ",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Not really.  IIRC, original casualty projections if the Soviets pushed into West Germany to try and take Europe were %100 by the end of the first week at the least.  It might have been as fast as 48 hours.  &lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "hoggit",
+                                                              "name": "t1_czogd4c",
+                                                              "score_hidden": false,
+                                                              "stickied": false,
+                                                              "created": 1454673702.0,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1454644902.0,
+                                                              "distinguished": null,
+                                                              "mod_reports": [
+
+                                                              ],
+                                                              "num_reports": 0,
+                                                              "ups": 3
+                                                            }
+                                                          },
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2tifv",
+                                                              "banned_by": null,
+                                                              "removal_reason": null,
+                                                              "link_id": "t3_446ba4",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": null,
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "more",
+                                                                      "data": {
+                                                                        "count": 3,
+                                                                        "parent_id": "t1_czob2pn",
+                                                                        "children": [
+                                                                          "czolclp"
+                                                                        ],
+                                                                        "name": "t1_czolclp",
+                                                                        "id": "czolclp"
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [
+
+                                                              ],
+                                                              "saved": false,
+                                                              "id": "czob2pn",
+                                                              "gilded": 0,
+                                                              "archived": false,
+                                                              "report_reasons": [
+
+                                                              ],
+                                                              "author": "Frothyleet",
+                                                              "parent_id": "t1_czo3oyg",
+                                                              "score": 2,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "Sort of - even at the time, it was expected that there would be massive A-10 attrition in a full-scale European war, which is not really politically acceptable for the type of fighting we do today.\n\nAnd against modern armor, that sort of tank hunting doesn't really work anymore.",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Sort of - even at the time, it was expected that there would be massive A-10 attrition in a full-scale European war, which is not really politically acceptable for the type of fighting we do today.&lt;/p&gt;\n\n&lt;p&gt;And against modern armor, that sort of tank hunting doesn&amp;#39;t really work anymore.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "hoggit",
+                                                              "name": "t1_czob2pn",
+                                                              "score_hidden": false,
+                                                              "stickied": false,
+                                                              "created": 1454665438.0,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1454636638.0,
+                                                              "distinguished": null,
+                                                              "mod_reports": [
+
+                                                              ],
+                                                              "num_reports": 0,
+                                                              "ups": 2
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [
+
+                                                    ],
+                                                    "saved": false,
+                                                    "id": "czo3oyg",
+                                                    "gilded": 0,
+                                                    "archived": false,
+                                                    "report_reasons": [
+
+                                                    ],
+                                                    "author": "DerFritzReddit",
+                                                    "parent_id": "t1_cznxrgu",
+                                                    "score": 0,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Wasn't the A-10 built for this crap? Low level tank hunting in the cold war with a lot of Anti-Air around?",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Wasn&amp;#39;t the A-10 built for this crap? Low level tank hunting in the cold war with a lot of Anti-Air around?&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "hoggit",
+                                                    "name": "t1_czo3oyg",
+                                                    "score_hidden": false,
+                                                    "stickied": false,
+                                                    "created": 1454653533.0,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1454624733.0,
+                                                    "distinguished": null,
+                                                    "mod_reports": [
+
+                                                    ],
+                                                    "num_reports": 0,
+                                                    "ups": 0
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [
+
+                                          ],
+                                          "saved": false,
+                                          "id": "cznxrgu",
+                                          "gilded": 0,
+                                          "archived": false,
+                                          "report_reasons": [
+
+                                          ],
+                                          "author": "Tirak117",
+                                          "parent_id": "t1_cznwcr9",
+                                          "score": 8,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "War gone hot isn't the argument you want to make here, the A-10 falls to pieces there. A-10s are COIN jets at this point. \n\nLets say for example, ISIS gets its hands on a BUK system, not an impossibility, after all the Ukrainian Rebels captured such systems, and cash flow isn't a huge problem for ISIS at the moment. That completely locks down a huge amount of airspace until the US can roll in some competent fighter bombers to take over for the A-10, completely negating the point of keeping it around.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;War gone hot isn&amp;#39;t the argument you want to make here, the A-10 falls to pieces there. A-10s are COIN jets at this point. &lt;/p&gt;\n\n&lt;p&gt;Lets say for example, ISIS gets its hands on a BUK system, not an impossibility, after all the Ukrainian Rebels captured such systems, and cash flow isn&amp;#39;t a huge problem for ISIS at the moment. That completely locks down a huge amount of airspace until the US can roll in some competent fighter bombers to take over for the A-10, completely negating the point of keeping it around.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "hoggit",
+                                          "name": "t1_cznxrgu",
+                                          "score_hidden": false,
+                                          "stickied": false,
+                                          "created": 1454645261.0,
+                                          "author_flair_text": null,
+                                          "created_utc": 1454616461.0,
+                                          "distinguished": null,
+                                          "mod_reports": [
+
+                                          ],
+                                          "num_reports": 0,
+                                          "ups": 8
+                                        }
+                                      },
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2tifv",
+                                          "banned_by": null,
+                                          "removal_reason": null,
+                                          "link_id": "t3_446ba4",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [
+
+                                          ],
+                                          "saved": false,
+                                          "id": "czo39v0",
+                                          "gilded": 0,
+                                          "archived": false,
+                                          "report_reasons": [
+
+                                          ],
+                                          "author": "ZakuTwo",
+                                          "parent_id": "t1_cznwcr9",
+                                          "score": 3,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Even as part of more comprehensive strike packages, A-10s are just incapable of flying (high altitude, fast) survivable mission profiles.  After a few airframes were lost they were specifically restricted from attacking the Republican Guard in 91.  Mudhens and F-35s are much more ideal CAS platforms regardless of what tech bloggers and infantry grunts say.",
+                                          "edited": false,
+                                          "author_flair_css_class": "",
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Even as part of more comprehensive strike packages, A-10s are just incapable of flying (high altitude, fast) survivable mission profiles.  After a few airframes were lost they were specifically restricted from attacking the Republican Guard in 91.  Mudhens and F-35s are much more ideal CAS platforms regardless of what tech bloggers and infantry grunts say.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "hoggit",
+                                          "name": "t1_czo39v0",
+                                          "score_hidden": false,
+                                          "stickied": false,
+                                          "created": 1454652915.0,
+                                          "author_flair_text": "FC3 | A-10C | M-2000C | CA | NTTR",
+                                          "created_utc": 1454624115.0,
+                                          "distinguished": null,
+                                          "mod_reports": [
+
+                                          ],
+                                          "num_reports": 0,
+                                          "ups": 3
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [
+
+                                ],
+                                "saved": false,
+                                "id": "cznwcr9",
+                                "gilded": 0,
+                                "archived": false,
+                                "report_reasons": [
+
+                                ],
+                                "author": "TheFurNinja",
+                                "parent_id": "t1_cznvt7o",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Well that is why it is supplemented by SEAD, EW, and Fighter Bombers. Don't send A-10s in a zone that hot, instead they provide mop-up cover for the infantry following the \"first wave\"",
+                                "edited": false,
+                                "author_flair_css_class": "",
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Well that is why it is supplemented by SEAD, EW, and Fighter Bombers. Don&amp;#39;t send A-10s in a zone that hot, instead they provide mop-up cover for the infantry following the &amp;quot;first wave&amp;quot;&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "hoggit",
+                                "name": "t1_cznwcr9",
+                                "score_hidden": false,
+                                "stickied": false,
+                                "created": 1454643362.0,
+                                "author_flair_text": "Steam:TheFurNinja. Su-27 fanboi",
+                                "created_utc": 1454614562.0,
+                                "distinguished": null,
+                                "mod_reports": [
+
+                                ],
+                                "num_reports": 0,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [
+
+                      ],
+                      "saved": false,
+                      "id": "cznvt7o",
+                      "gilded": 0,
+                      "archived": false,
+                      "report_reasons": [
+
+                      ],
+                      "author": "Tirak117",
+                      "parent_id": "t1_cznt2g0",
+                      "score": 11,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Well yeah if no one's shooting back at you. The only reason we're keeping them around is because our enemy doesn't have a competent anti aircraft presence. If ISIS ever gets its hands on something that can reach up to the 10 and 15 thousand foot standoff altitude where A-10s do most of their work nowadays, you'll be seeing a lot less A-10s.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Well yeah if no one&amp;#39;s shooting back at you. The only reason we&amp;#39;re keeping them around is because our enemy doesn&amp;#39;t have a competent anti aircraft presence. If ISIS ever gets its hands on something that can reach up to the 10 and 15 thousand foot standoff altitude where A-10s do most of their work nowadays, you&amp;#39;ll be seeing a lot less A-10s.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "hoggit",
+                      "name": "t1_cznvt7o",
+                      "score_hidden": false,
+                      "stickied": false,
+                      "created": 1454642613.0,
+                      "author_flair_text": null,
+                      "created_utc": 1454613813.0,
+                      "distinguished": null,
+                      "mod_reports": [
+
+                      ],
+                      "num_reports": 0,
+                      "ups": 11
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [
+
+            ],
+            "saved": false,
+            "id": "cznt2g0",
+            "gilded": 0,
+            "archived": false,
+            "report_reasons": [
+
+            ],
+            "author": "SkeerRacing",
+            "parent_id": "t3_446ba4",
+            "score": -9,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "The A-10 should be the 911 of the skies. Just keep improving it over and over. Perfect ground attack aircraft. ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The A-10 should be the 911 of the skies. Just keep improving it over and over. Perfect ground attack aircraft. &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "hoggit",
+            "name": "t1_cznt2g0",
+            "score_hidden": false,
+            "stickied": false,
+            "created": 1454638881.0,
+            "author_flair_text": null,
+            "created_utc": 1454610081.0,
+            "distinguished": null,
+            "mod_reports": [
+
+            ],
+            "num_reports": 0,
+            "ups": -9
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

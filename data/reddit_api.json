@@ -1,0 +1,2038 @@
+{
+  "Auth": {
+    "access_token": {
+      "method": "get",
+      "url": "api/v1/access_token",
+      "name": "access_token",
+      "fields": [
+
+      ]
+
+    },
+    "revoke_token": {
+      "method": "post",
+      "url": "api/v1/revoke_token",
+      "name": "revoke_token",
+      "fields": [
+        
+      ]
+    }
+  },
+  "Account": {
+    "me": {
+      "method": "get",
+      "url": "api/v1/me",
+      "name": "me",
+      "fields": [
+
+      ]
+    },
+    "me/karma": {
+      "method": "get",
+      "url": "api/v1/me/karma",
+      "name": "me/karma",
+      "fields": [
+
+      ]
+    },
+    "me/prefs": {
+      "method": "patch",
+      "url": "api/v1/me/prefs",
+      "name": "me/prefs",
+      "fields": [
+        "json"
+      ]
+    },
+    "me/trophies": {
+      "method": "get",
+      "url": "api/v1/me/trophies",
+      "name": "me/trophies",
+      "fields": [
+
+      ]
+    },
+    "prefs/friends": {
+      "method": "get",
+      "url": "prefs/friends",
+      "name": "prefs/friends",
+      "fields": [
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "prefs/blocked": {
+      "method": "get",
+      "url": "prefs/blocked",
+      "name": "prefs/blocked",
+      "fields": [
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "me/friends": {
+      "method": "get",
+      "url": "api/v1/me/friends",
+      "name": "me/friends",
+      "fields": [
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "me/blocked": {
+      "method": "get",
+      "url": "api/v1/me/blocked",
+      "name": "me/blocked",
+      "fields": [
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail"
+      ]
+    }
+  },
+  "Captcha": {
+    "needs/captcha": {
+      "method": "get",
+      "url": "api/needs/captcha",
+      "name": "needs/captcha",
+      "fields": [
+
+      ]
+    },
+    "new/captcha": {
+      "method": "post",
+      "url": "api/new/captcha",
+      "name": "new/captcha",
+      "fields": [
+        "api_type"
+      ]
+    },
+    "captcha/iden": {
+      "method": "get",
+      "url": "captcha/iden",
+      "name": "captcha/iden",
+      "fields": [
+        "basepath_iden"
+      ]
+    }
+  },
+  "Flair": {
+    "clearflairtemplates": {
+      "method": "post",
+      "url": "api/clearflairtemplates",
+      "name": "clearflairtemplates",
+      "fields": [
+        "basepath_subreddit",
+        "api_type",
+        "flair_type",
+        "uh"
+      ]
+    },
+    "deleteflair": {
+      "method": "post",
+      "url": "api/deleteflair",
+      "name": "deleteflair",
+      "fields": [
+        "basepath_subreddit",
+        "api_type",
+        "name",
+        "uh"
+      ]
+    },
+    "deleteflairtemplate": {
+      "method": "post",
+      "url": "api/deleteflairtemplate",
+      "name": "deleteflairtemplate",
+      "fields": [
+        "basepath_subreddit",
+        "api_type",
+        "flair_template_id",
+        "uh"
+      ]
+    },
+    "flair": {
+      "method": "post",
+      "url": "api/flair",
+      "name": "flair",
+      "fields": [
+        "basepath_subreddit",
+        "api_type",
+        "css_class",
+        "link",
+        "name",
+        "text",
+        "uh"
+      ]
+    },
+    "flairconfig": {
+      "method": "post",
+      "url": "api/flairconfig",
+      "name": "flairconfig",
+      "fields": [
+        "basepath_subreddit",
+        "api_type",
+        "flair_enabled",
+        "flair_position",
+        "flair_self_assign_enabled",
+        "link_flair_position",
+        "link_flair_self_assign_enabled",
+        "uh"
+      ]
+    },
+    "flaircsv": {
+      "method": "post",
+      "url": "api/flaircsv",
+      "name": "flaircsv",
+      "fields": [
+        "basepath_subreddit",
+        "flair_csv",
+        "uh"
+      ]
+    },
+    "flairlist": {
+      "method": "get",
+      "url": "api/flairlist",
+      "name": "flairlist",
+      "fields": [
+        "basepath_subreddit",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "name",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "flairselector": {
+      "method": "post",
+      "url": "api/flairselector",
+      "name": "flairselector",
+      "fields": [
+        "basepath_subreddit",
+        "link",
+        "name"
+      ]
+    },
+    "flairtemplate": {
+      "method": "post",
+      "url": "api/flairtemplate",
+      "name": "flairtemplate",
+      "fields": [
+        "basepath_subreddit",
+        "api_type",
+        "css_class",
+        "flair_template_id",
+        "flair_type",
+        "text",
+        "text_editable",
+        "uh"
+      ]
+    },
+    "selectflair": {
+      "method": "post",
+      "url": "api/selectflair",
+      "name": "selectflair",
+      "fields": [
+        "basepath_subreddit",
+        "api_type",
+        "flair_template_id",
+        "link",
+        "name",
+        "text",
+        "uh"
+      ]
+    },
+    "setflairenabled": {
+      "method": "post",
+      "url": "api/setflairenabled",
+      "name": "setflairenabled",
+      "fields": [
+        "basepath_subreddit",
+        "api_type",
+        "flair_enabled",
+        "uh"
+      ]
+    }
+  },
+  "RedditGold": {
+    "gold/gild/fullname": {
+      "method": "post",
+      "url": "api/v1/gold/gild/fullname",
+      "name": "gold/gild/fullname",
+      "fields": [
+        "basepath_fullname",
+        "fullname"
+      ]
+    },
+    "gold/give/username": {
+      "method": "post",
+      "url": "api/v1/gold/give/username",
+      "name": "gold/give/username",
+      "fields": [
+        "basepath_username",
+        "months",
+        "username"
+      ]
+    }
+  },
+  "LinksComments": {
+    "comment": {
+      "method": "post",
+      "url": "api/comment",
+      "name": "comment",
+      "fields": [
+        "api_type",
+        "text",
+        "thing_id",
+        "uh"
+      ]
+    },
+    "del": {
+      "method": "post",
+      "url": "api/del",
+      "name": "del",
+      "fields": [
+        "id",
+        "uh"
+      ]
+    },
+    "editusertext": {
+      "method": "post",
+      "url": "api/editusertext",
+      "name": "editusertext",
+      "fields": [
+        "api_type",
+        "text",
+        "thing_id",
+        "uh"
+      ]
+    },
+    "hide": {
+      "method": "post",
+      "url": "api/hide",
+      "name": "hide",
+      "fields": [
+        "id",
+        "uh"
+      ]
+    },
+    "info": {
+      "method": "get",
+      "url": "api/info",
+      "name": "info",
+      "fields": [
+        "basepath_subreddit",
+        "id",
+        "url"
+      ]
+    },
+    "lock": {
+      "method": "post",
+      "url": "api/lock",
+      "name": "lock",
+      "fields": [
+        "id",
+        "uh"
+      ]
+    },
+    "marknsfw": {
+      "method": "post",
+      "url": "api/marknsfw",
+      "name": "marknsfw",
+      "fields": [
+        "id",
+        "uh"
+      ]
+    },
+    "morechildren": {
+      "method": "get",
+      "url": "api/morechildren",
+      "name": "morechildren",
+      "fields": [
+        "api_type",
+        "children",
+        "id",
+        "link_id",
+        "sort"
+      ]
+    },
+    "report": {
+      "method": "post",
+      "url": "api/report",
+      "name": "report",
+      "fields": [
+        "api_type",
+        "other_reason",
+        "reason",
+        "site_reason",
+        "thing_id",
+        "uh"
+      ]
+    },
+    "save": {
+      "method": "post",
+      "url": "api/save",
+      "name": "save",
+      "fields": [
+        "category",
+        "id",
+        "uh"
+      ]
+    },
+    "saved/categories": {
+      "method": "get",
+      "url": "api/saved/categories",
+      "name": "saved/categories",
+      "fields": [
+
+      ]
+    },
+    "sendreplies": {
+      "method": "post",
+      "url": "api/sendreplies",
+      "name": "sendreplies",
+      "fields": [
+        "id",
+        "state",
+        "uh"
+      ]
+    },
+    "set/contest/mode": {
+      "method": "post",
+      "url": "api/set/contest/mode",
+      "name": "set/contest/mode",
+      "fields": [
+        "api_type",
+        "id",
+        "state",
+        "uh"
+      ]
+    },
+    "set/subreddit/sticky": {
+      "method": "post",
+      "url": "api/set/subreddit/sticky",
+      "name": "set/subreddit/sticky",
+      "fields": [
+        "api_type",
+        "id",
+        "num",
+        "state",
+        "uh"
+      ]
+    },
+    "set/suggested/sort": {
+      "method": "post",
+      "url": "api/set/suggested/sort",
+      "name": "set/suggested/sort",
+      "fields": [
+        "api_type",
+        "id",
+        "sort",
+        "uh"
+      ]
+    },
+    "store/visits": {
+      "method": "post",
+      "url": "api/store/visits",
+      "name": "store/visits",
+      "fields": [
+        "links",
+        "uh"
+      ]
+    },
+    "submit": {
+      "method": "post",
+      "url": "api/submit",
+      "name": "submit",
+      "fields": [
+        "api_type",
+        "captcha",
+        "extension",
+        "iden",
+        "kind",
+        "resubmit",
+        "sendreplies",
+        "sr",
+        "text",
+        "title",
+        "uh",
+        "url"
+      ]
+    },
+    "unhide": {
+      "method": "post",
+      "url": "api/unhide",
+      "name": "unhide",
+      "fields": [
+        "id",
+        "uh"
+      ]
+    },
+    "unlock": {
+      "method": "post",
+      "url": "api/unlock",
+      "name": "unlock",
+      "fields": [
+        "id",
+        "uh"
+      ]
+    },
+    "unmarknsfw": {
+      "method": "post",
+      "url": "api/unmarknsfw",
+      "name": "unmarknsfw",
+      "fields": [
+        "id",
+        "uh"
+      ]
+    },
+    "unsave": {
+      "method": "post",
+      "url": "api/unsave",
+      "name": "unsave",
+      "fields": [
+        "id",
+        "uh"
+      ]
+    },
+    "vote": {
+      "method": "post",
+      "url": "api/vote",
+      "name": "vote",
+      "fields": [
+        "dir",
+        "id",
+        "uh"
+      ]
+    }
+  },
+  "Listings": {
+    "by/id/names": {
+      "method": "get",
+      "url": "by/id/names",
+      "name": "by/id/names",
+      "fields": [
+        "basepath_names",
+        "names"
+      ]
+    },
+    "comments/article": {
+      "method": "get",
+      "url": "comments/article",
+      "name": "comments/article",
+      "fields": [
+        "basepath_subreddit",
+        "basepath_article",
+        "article",
+        "comment",
+        "context",
+        "depth",
+        "limit",
+        "showedits",
+        "showmore",
+        "sort",
+        "sr_detail"
+      ]
+    },
+    "duplicates/article": {
+      "method": "get",
+      "url": "duplicates/article",
+      "name": "duplicates/article",
+      "fields": [
+        "basepath_article",
+        "after",
+        "article",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "hot": {
+      "method": "get",
+      "url": "hot",
+      "name": "hot",
+      "fields": [
+        "basepath_subreddit",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "new": {
+      "method": "get",
+      "url": "new",
+      "name": "new",
+      "fields": [
+        "basepath_subreddit",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "random": {
+      "method": "get",
+      "url": "random",
+      "name": "random",
+      "fields": [
+        "basepath_subreddit"
+      ]
+    },
+    "related/article": {
+      "method": "get",
+      "url": "related/article",
+      "name": "related/article",
+      "fields": [
+        "basepath_article",
+        "after",
+        "article",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "top": {
+      "method": "get",
+      "url": "top",
+      "name": "top",
+      "fields": [
+        "basepath_subreddit",
+        "basepath_sort",
+        "t",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "controversial": {
+      "method": "get",
+      "url": "controversial",
+      "name": "controversial",
+      "fields": [
+        "basepath_subreddit",
+        "basepath_sort",
+        "t",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail"
+      ]
+    }
+  },
+  "LiveThreads": {
+    "live/create": {
+      "method": "post",
+      "url": "api/live/create",
+      "name": "live/create",
+      "fields": [
+        "api_type",
+        "description",
+        "nsfw",
+        "resources",
+        "title",
+        "uh"
+      ]
+    },
+    "live/thread/accept/contributor/invite": {
+      "method": "post",
+      "url": "api/live/thread/accept/contributor/invite",
+      "name": "live/thread/accept/contributor/invite",
+      "fields": [
+        "basepath_thread",
+        "api_type",
+        "uh"
+      ]
+    },
+    "live/thread/close/thread": {
+      "method": "post",
+      "url": "api/live/thread/close/thread",
+      "name": "live/thread/close/thread",
+      "fields": [
+        "basepath_thread",
+        "api_type",
+        "uh"
+      ]
+    },
+    "live/thread/delete/update": {
+      "method": "post",
+      "url": "api/live/thread/delete/update",
+      "name": "live/thread/delete/update",
+      "fields": [
+        "basepath_thread",
+        "api_type",
+        "id",
+        "uh"
+      ]
+    },
+    "live/thread/edit": {
+      "method": "post",
+      "url": "api/live/thread/edit",
+      "name": "live/thread/edit",
+      "fields": [
+        "basepath_thread",
+        "api_type",
+        "description",
+        "nsfw",
+        "resources",
+        "title",
+        "uh"
+      ]
+    },
+    "live/thread/invite/contributor": {
+      "method": "post",
+      "url": "api/live/thread/invite/contributor",
+      "name": "live/thread/invite/contributor",
+      "fields": [
+        "basepath_thread",
+        "api_type",
+        "name",
+        "permissions",
+        "type",
+        "uh"
+      ]
+    },
+    "live/thread/leave/contributor": {
+      "method": "post",
+      "url": "api/live/thread/leave/contributor",
+      "name": "live/thread/leave/contributor",
+      "fields": [
+        "basepath_thread",
+        "api_type",
+        "uh"
+      ]
+    },
+    "live/thread/report": {
+      "method": "post",
+      "url": "api/live/thread/report",
+      "name": "live/thread/report",
+      "fields": [
+        "basepath_thread",
+        "api_type",
+        "type",
+        "uh"
+      ]
+    },
+    "live/thread/rm/contributor": {
+      "method": "post",
+      "url": "api/live/thread/rm/contributor",
+      "name": "live/thread/rm/contributor",
+      "fields": [
+        "basepath_thread",
+        "api_type",
+        "id",
+        "uh"
+      ]
+    },
+    "live/thread/rm/contributor/invite": {
+      "method": "post",
+      "url": "api/live/thread/rm/contributor/invite",
+      "name": "live/thread/rm/contributor/invite",
+      "fields": [
+        "basepath_thread",
+        "api_type",
+        "id",
+        "uh"
+      ]
+    },
+    "live/thread/set/contributor/permissions": {
+      "method": "post",
+      "url": "api/live/thread/set/contributor/permissions",
+      "name": "live/thread/set/contributor/permissions",
+      "fields": [
+        "basepath_thread",
+        "api_type",
+        "name",
+        "permissions",
+        "type",
+        "uh"
+      ]
+    },
+    "live/thread/strike/update": {
+      "method": "post",
+      "url": "api/live/thread/strike/update",
+      "name": "live/thread/strike/update",
+      "fields": [
+        "basepath_thread",
+        "api_type",
+        "id",
+        "uh"
+      ]
+    },
+    "live/thread/update": {
+      "method": "post",
+      "url": "api/live/thread/update",
+      "name": "live/thread/update",
+      "fields": [
+        "basepath_thread",
+        "api_type",
+        "body",
+        "uh"
+      ]
+    },
+    "live/thread": {
+      "method": "get",
+      "url": "live/thread",
+      "name": "live/thread",
+      "fields": [
+        "basepath_thread",
+        "after",
+        "before",
+        "count",
+        "is_embed",
+        "limit",
+        "stylesr"
+      ]
+    },
+    "live/thread/about": {
+      "method": "get",
+      "url": "live/thread/about",
+      "name": "live/thread/about",
+      "fields": [
+        "basepath_thread"
+      ]
+    },
+    "live/thread/contributors": {
+      "method": "get",
+      "url": "live/thread/contributors",
+      "name": "live/thread/contributors",
+      "fields": [
+        "basepath_thread"
+      ]
+    },
+    "live/thread/discussions": {
+      "method": "get",
+      "url": "live/thread/discussions",
+      "name": "live/thread/discussions",
+      "fields": [
+        "basepath_thread",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail"
+      ]
+    }
+  },
+  "PrivateMessages": {
+    "block": {
+      "method": "post",
+      "url": "api/block",
+      "name": "block",
+      "fields": [
+        "id",
+        "uh"
+      ]
+    },
+    "collapse/message": {
+      "method": "post",
+      "url": "api/collapse/message",
+      "name": "collapse/message",
+      "fields": [
+        "id",
+        "uh"
+      ]
+    },
+    "compose": {
+      "method": "post",
+      "url": "api/compose",
+      "name": "compose",
+      "fields": [
+        "api_type",
+        "captcha",
+        "from_sr",
+        "iden",
+        "subject",
+        "text",
+        "to",
+        "uh"
+      ]
+    },
+    "read/all/messages": {
+      "method": "post",
+      "url": "api/read/all/messages",
+      "name": "read/all/messages",
+      "fields": [
+        "uh"
+      ]
+    },
+    "read/message": {
+      "method": "post",
+      "url": "api/read/message",
+      "name": "read/message",
+      "fields": [
+        "id",
+        "uh"
+      ]
+    },
+    "unblock/subreddit": {
+      "method": "post",
+      "url": "api/unblock/subreddit",
+      "name": "unblock/subreddit",
+      "fields": [
+        "id",
+        "uh"
+      ]
+    },
+    "uncollapse/message": {
+      "method": "post",
+      "url": "api/uncollapse/message",
+      "name": "uncollapse/message",
+      "fields": [
+        "id",
+        "uh"
+      ]
+    },
+    "unread/message": {
+      "method": "post",
+      "url": "api/unread/message",
+      "name": "unread/message",
+      "fields": [
+        "id",
+        "uh"
+      ]
+    },
+    "message/inbox": {
+      "method": "get",
+      "url": "message/inbox",
+      "name": "message/inbox",
+      "fields": [
+        "mark",
+        "mid",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "message/unread": {
+      "method": "get",
+      "url": "message/unread",
+      "name": "message/unread",
+      "fields": [
+        "mark",
+        "mid",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "message/sent": {
+      "method": "get",
+      "url": "message/sent",
+      "name": "message/sent",
+      "fields": [
+        "mark",
+        "mid",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail"
+      ]
+    }
+  },
+  "Misc": {
+    "scopes": {
+      "method": "get",
+      "url": "api/v1/scopes",
+      "name": "scopes",
+      "fields": [
+        "scopes"
+      ]
+    }
+  },
+  "Moderation": {
+    "about/log": {
+      "method": "get",
+      "url": "about/log",
+      "name": "about/log",
+      "fields": [
+        "basepath_subreddit",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "mod",
+        "show",
+        "sr_detail",
+        "type"
+      ]
+    },
+    "about/reports": {
+      "method": "get",
+      "url": "about/reports",
+      "name": "about/reports",
+      "fields": [
+        "basepath_subreddit",
+        "basepath_location",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "location",
+        "only",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "about/spam": {
+      "method": "get",
+      "url": "about/spam",
+      "name": "about/spam",
+      "fields": [
+        "basepath_subreddit",
+        "basepath_location",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "location",
+        "only",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "about/modqueue": {
+      "method": "get",
+      "url": "about/modqueue",
+      "name": "about/modqueue",
+      "fields": [
+        "basepath_subreddit",
+        "basepath_location",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "location",
+        "only",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "about/unmoderated": {
+      "method": "get",
+      "url": "about/unmoderated",
+      "name": "about/unmoderated",
+      "fields": [
+        "basepath_subreddit",
+        "basepath_location",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "location",
+        "only",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "about/edited": {
+      "method": "get",
+      "url": "about/edited",
+      "name": "about/edited",
+      "fields": [
+        "basepath_subreddit",
+        "basepath_location",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "location",
+        "only",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "accept/moderator/invite": {
+      "method": "post",
+      "url": "api/accept/moderator/invite",
+      "name": "accept/moderator/invite",
+      "fields": [
+        "basepath_subreddit",
+        "api_type",
+        "uh"
+      ]
+    },
+    "approve": {
+      "method": "post",
+      "url": "api/approve",
+      "name": "approve",
+      "fields": [
+        "id",
+        "uh"
+      ]
+    },
+    "distinguish": {
+      "method": "post",
+      "url": "api/distinguish",
+      "name": "distinguish",
+      "fields": [
+        "api_type",
+        "how",
+        "id",
+        "uh"
+      ]
+    },
+    "ignore/reports": {
+      "method": "post",
+      "url": "api/ignore/reports",
+      "name": "ignore/reports",
+      "fields": [
+        "id",
+        "uh"
+      ]
+    },
+    "leavecontributor": {
+      "method": "post",
+      "url": "api/leavecontributor",
+      "name": "leavecontributor",
+      "fields": [
+        "id",
+        "uh"
+      ]
+    },
+    "leavemoderator": {
+      "method": "post",
+      "url": "api/leavemoderator",
+      "name": "leavemoderator",
+      "fields": [
+        "id",
+        "uh"
+      ]
+    },
+    "mute/message/author": {
+      "method": "post",
+      "url": "api/mute/message/author",
+      "name": "mute/message/author",
+      "fields": [
+        "id",
+        "uh"
+      ]
+    },
+    "remove": {
+      "method": "post",
+      "url": "api/remove",
+      "name": "remove",
+      "fields": [
+        "id",
+        "spam",
+        "uh"
+      ]
+    },
+    "unignore/reports": {
+      "method": "post",
+      "url": "api/unignore/reports",
+      "name": "unignore/reports",
+      "fields": [
+        "id",
+        "uh"
+      ]
+    },
+    "unmute/message/author": {
+      "method": "post",
+      "url": "api/unmute/message/author",
+      "name": "unmute/message/author",
+      "fields": [
+        "id",
+        "uh"
+      ]
+    },
+    "stylesheet": {
+      "method": "get",
+      "url": "stylesheet",
+      "name": "stylesheet",
+      "fields": [
+        "basepath_subreddit"
+      ]
+    }
+  },
+  "Multis": {
+    "multi/copy": {
+      "method": "post",
+      "url": "api/multi/copy",
+      "name": "multi/copy",
+      "fields": [
+        "display_name",
+        "from",
+        "to",
+        "uh"
+      ]
+    },
+    "multi/mine": {
+      "method": "get",
+      "url": "api/multi/mine",
+      "name": "multi/mine",
+      "fields": [
+        "expand_srs"
+      ]
+    },
+    "multi/rename": {
+      "method": "post",
+      "url": "api/multi/rename",
+      "name": "multi/rename",
+      "fields": [
+        "display_name",
+        "from",
+        "to",
+        "uh"
+      ]
+    },
+    "multi/user/username": {
+      "method": "get",
+      "url": "api/multi/user/username",
+      "name": "multi/user/username",
+      "fields": [
+        "basepath_username",
+        "expand_srs",
+        "username"
+      ]
+    },
+    "filter/filterpath": {
+      "method": "put",
+      "url": "api/filter/filterpath",
+      "name": "filter/filterpath",
+      "fields": [
+        "basepath_multipath",
+        "model",
+        "multipath",
+        "uh",
+        "expand_srs"
+      ]
+    },
+    "multi/multipath/description": {
+      "method": "put",
+      "url": "api/multi/multipath/description",
+      "name": "multi/multipath/description",
+      "fields": [
+        "basepath_multipath",
+        "model",
+        "multipath",
+        "uh"
+      ]
+    },
+    "filter/filterpath/r/srname": {
+      "method": "put",
+      "url": "api/filter/filterpath/r/srname",
+      "name": "filter/filterpath/r/srname",
+      "fields": [
+        "basepath_multipath",
+        "basepath_srname",
+        "model",
+        "multipath",
+        "srname",
+        "uh"
+      ]
+    }
+  },
+  "Search": {
+    "search": {
+      "method": "get",
+      "url": "search",
+      "name": "search",
+      "fields": [
+        "basepath_subreddit",
+        "after",
+        "before",
+        "count",
+        "include_facets",
+        "limit",
+        "q",
+        "restrict_sr",
+        "show",
+        "sort",
+        "sr_detail",
+        "syntax",
+        "t",
+        "type"
+      ]
+    }
+  },
+  "Subreddits": {
+    "about/banned": {
+      "method": "get",
+      "url": "about/banned",
+      "name": "about/banned",
+      "fields": [
+        "basepath_subreddit",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail",
+        "user"
+      ]
+    },
+    "about/muted": {
+      "method": "get",
+      "url": "about/muted",
+      "name": "about/muted",
+      "fields": [
+        "basepath_subreddit",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail",
+        "user"
+      ]
+    },
+    "about/wikibanned": {
+      "method": "get",
+      "url": "about/wikibanned",
+      "name": "about/wikibanned",
+      "fields": [
+        "basepath_subreddit",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail",
+        "user"
+      ]
+    },
+    "about/contributors": {
+      "method": "get",
+      "url": "about/contributors",
+      "name": "about/contributors",
+      "fields": [
+        "basepath_subreddit",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail",
+        "user"
+      ]
+    },
+    "about/wikicontributors": {
+      "method": "get",
+      "url": "about/wikicontributors",
+      "name": "about/wikicontributors",
+      "fields": [
+        "basepath_subreddit",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail",
+        "user"
+      ]
+    },
+    "about/moderators": {
+      "method": "get",
+      "url": "about/moderators",
+      "name": "about/moderators",
+      "fields": [
+        "basepath_subreddit",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail",
+        "user"
+      ]
+    },
+    "delete/sr/banner": {
+      "method": "post",
+      "url": "api/delete/sr/banner",
+      "name": "delete/sr/banner",
+      "fields": [
+        "basepath_subreddit",
+        "api_type",
+        "uh"
+      ]
+    },
+    "delete/sr/header": {
+      "method": "post",
+      "url": "api/delete/sr/header",
+      "name": "delete/sr/header",
+      "fields": [
+        "basepath_subreddit",
+        "api_type",
+        "uh"
+      ]
+    },
+    "delete/sr/icon": {
+      "method": "post",
+      "url": "api/delete/sr/icon",
+      "name": "delete/sr/icon",
+      "fields": [
+        "basepath_subreddit",
+        "api_type",
+        "uh"
+      ]
+    },
+    "delete/sr/img": {
+      "method": "post",
+      "url": "api/delete/sr/img",
+      "name": "delete/sr/img",
+      "fields": [
+        "basepath_subreddit",
+        "api_type",
+        "img_name",
+        "uh"
+      ]
+    },
+    "recommend/sr/srnames": {
+      "method": "get",
+      "url": "api/recommend/sr/srnames",
+      "name": "recommend/sr/srnames",
+      "fields": [
+        "basepath_srnames",
+        "omit",
+        "srnames"
+      ]
+    },
+    "search/reddit/names": {
+      "method": "post",
+      "url": "api/search/reddit/names",
+      "name": "search/reddit/names",
+      "fields": [
+        "exact",
+        "include_over_18",
+        "query"
+      ]
+    },
+    "site/admin": {
+      "method": "post",
+      "url": "api/site/admin",
+      "name": "site/admin",
+      "fields": [
+        "allow_top",
+        "api_type",
+        "captcha",
+        "collapse_deleted_comments",
+        "comment_score_hide_mins",
+        "description",
+        "exclude_banned_modqueue",
+        "header_title",
+        "hide_ads",
+        "iden",
+        "lang",
+        "link_type",
+        "name",
+        "over_18",
+        "public_description",
+        "public_traffic",
+        "show_media",
+        "spam_comments",
+        "spam_links",
+        "spam_selfposts",
+        "sr",
+        "submit_link_label",
+        "submit_text",
+        "submit_text_label",
+        "suggested_comment_sort",
+        "title",
+        "type",
+        "uh",
+        "wiki_edit_age",
+        "wiki_edit_karma",
+        "wikimode"
+      ]
+    },
+    "submit/text": {
+      "method": "get",
+      "url": "api/submit/text",
+      "name": "submit/text",
+      "fields": [
+        "basepath_subreddit"
+      ]
+    },
+    "subreddit/stylesheet": {
+      "method": "post",
+      "url": "api/subreddit/stylesheet",
+      "name": "subreddit/stylesheet",
+      "fields": [
+        "basepath_subreddit",
+        "api_type",
+        "op",
+        "reason",
+        "stylesheet_contents",
+        "uh"
+      ]
+    },
+    "subreddits/by/topic": {
+      "method": "get",
+      "url": "api/subreddits/by/topic",
+      "name": "subreddits/by/topic",
+      "fields": [
+        "query"
+      ]
+    },
+    "subscribe": {
+      "method": "post",
+      "url": "api/subscribe",
+      "name": "subscribe",
+      "fields": [
+        "action",
+        "sr",
+        "uh"
+      ]
+    },
+    "upload/sr/img": {
+      "method": "post",
+      "url": "api/upload/sr/img",
+      "name": "upload/sr/img",
+      "fields": [
+        "basepath_subreddit",
+        "file",
+        "formid",
+        "header",
+        "img_type",
+        "name",
+        "uh",
+        "upload_type"
+      ]
+    },
+    "r/subreddit/about": {
+      "method": "get",
+      "url": "r/subreddit/about",
+      "name": "r/subreddit/about",
+      "fields": [
+        "basepath_subreddit"
+      ]
+    },
+    "r/subreddit/about/edit": {
+      "method": "get",
+      "url": "r/subreddit/about/edit",
+      "name": "r/subreddit/about/edit",
+      "fields": [
+        "basepath_subreddit",
+        "created",
+        "location"
+      ]
+    },
+    "rules": {
+      "method": "get",
+      "url": "rules",
+      "name": "rules",
+      "fields": [
+        "basepath_subreddit"
+      ]
+    },
+    "sidebar": {
+      "method": "get",
+      "url": "sidebar",
+      "name": "sidebar",
+      "fields": [
+        "basepath_subreddit"
+      ]
+    },
+    "sticky": {
+      "method": "get",
+      "url": "sticky",
+      "name": "sticky",
+      "fields": [
+        "basepath_subreddit",
+        "num"
+      ]
+    },
+    "subreddits/mine/subscriber": {
+      "method": "get",
+      "url": "subreddits/mine/subscriber",
+      "name": "subreddits/mine/subscriber",
+      "fields": [
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "subreddits/mine/contributor": {
+      "method": "get",
+      "url": "subreddits/mine/contributor",
+      "name": "subreddits/mine/contributor",
+      "fields": [
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "subreddits/mine/moderator": {
+      "method": "get",
+      "url": "subreddits/mine/moderator",
+      "name": "subreddits/mine/moderator",
+      "fields": [
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "subreddits/search": {
+      "method": "get",
+      "url": "subreddits/search",
+      "name": "subreddits/search",
+      "fields": [
+        "after",
+        "before",
+        "count",
+        "limit",
+        "q",
+        "show",
+        "sort",
+        "sr_detail"
+      ]
+    },
+    "subreddits/popular": {
+      "method": "get",
+      "url": "subreddits/popular",
+      "name": "subreddits/popular",
+      "fields": [
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "subreddits/new": {
+      "method": "get",
+      "url": "subreddits/new",
+      "name": "subreddits/new",
+      "fields": [
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "subreddits/gold": {
+      "method": "get",
+      "url": "subreddits/gold",
+      "name": "subreddits/gold",
+      "fields": [
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "subreddits/default": {
+      "method": "get",
+      "url": "subreddits/default",
+      "name": "subreddits/default",
+      "fields": [
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail"
+      ]
+    }
+  },
+  "Users": {
+    "friend": {
+      "method": "post",
+      "url": "api/friend",
+      "name": "friend",
+      "fields": [
+        "basepath_subreddit",
+        "api_type",
+        "ban_message",
+        "ban_reason",
+        "container",
+        "duration",
+        "name",
+        "note",
+        "permissions",
+        "type",
+        "uh"
+      ]
+    },
+    "setpermissions": {
+      "method": "post",
+      "url": "api/setpermissions",
+      "name": "setpermissions",
+      "fields": [
+        "basepath_subreddit",
+        "api_type",
+        "name",
+        "permissions",
+        "type",
+        "uh"
+      ]
+    },
+    "unfriend": {
+      "method": "post",
+      "url": "api/unfriend",
+      "name": "unfriend",
+      "fields": [
+        "basepath_subreddit",
+        "container",
+        "id",
+        "name",
+        "type",
+        "uh"
+      ]
+    },
+    "username/available": {
+      "method": "get",
+      "url": "api/username/available",
+      "name": "username/available",
+      "fields": [
+        "user"
+      ]
+    },
+    "me/friends/username": {
+      "method": "put",
+      "url": "api/v1/me/friends/username",
+      "name": "me/friends/username",
+      "fields": [
+        "basepath_username"
+      ]
+    },
+    "user/username/trophies": {
+      "method": "get",
+      "url": "api/v1/user/username/trophies",
+      "name": "user/username/trophies",
+      "fields": [
+        "basepath_username",
+        "id"
+      ]
+    },
+    "user/username/about": {
+      "method": "get",
+      "url": "user/username/about",
+      "name": "user/username/about",
+      "fields": [
+        "basepath_username",
+        "username"
+      ]
+    },
+    "user/username/overview": {
+      "method": "get",
+      "url": "user/username/overview",
+      "name": "user/username/overview",
+      "fields": [
+        "basepath_username",
+        "show",
+        "sort",
+        "t",
+        "username",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "sr_detail"
+      ]
+    },
+    "user/username/submitted": {
+      "method": "get",
+      "url": "user/username/submitted",
+      "name": "user/username/submitted",
+      "fields": [
+        "basepath_username",
+        "show",
+        "sort",
+        "t",
+        "username",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "sr_detail"
+      ]
+    },
+    "user/username/comments": {
+      "method": "get",
+      "url": "user/username/comments",
+      "name": "user/username/comments",
+      "fields": [
+        "basepath_username",
+        "show",
+        "sort",
+        "t",
+        "username",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "sr_detail"
+      ]
+    },
+    "user/username/upvoted": {
+      "method": "get",
+      "url": "user/username/upvoted",
+      "name": "user/username/upvoted",
+      "fields": [
+        "basepath_username",
+        "show",
+        "sort",
+        "t",
+        "username",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "sr_detail"
+      ]
+    },
+    "user/username/downvoted": {
+      "method": "get",
+      "url": "user/username/downvoted",
+      "name": "user/username/downvoted",
+      "fields": [
+        "basepath_username",
+        "show",
+        "sort",
+        "t",
+        "username",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "sr_detail"
+      ]
+    },
+    "user/username/hidden": {
+      "method": "get",
+      "url": "user/username/hidden",
+      "name": "user/username/hidden",
+      "fields": [
+        "basepath_username",
+        "show",
+        "sort",
+        "t",
+        "username",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "sr_detail"
+      ]
+    },
+    "user/username/saved": {
+      "method": "get",
+      "url": "user/username/saved",
+      "name": "user/username/saved",
+      "fields": [
+        "basepath_username",
+        "show",
+        "sort",
+        "t",
+        "username",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "sr_detail"
+      ]
+    },
+    "user/username/gilded": {
+      "method": "get",
+      "url": "user/username/gilded",
+      "name": "user/username/gilded",
+      "fields": [
+        "basepath_username",
+        "show",
+        "sort",
+        "t",
+        "username",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "sr_detail"
+      ]
+    }
+  },
+  "Wiki": {
+    "wiki/alloweditor/del": {
+      "method": "post",
+      "url": "api/wiki/alloweditor/del",
+      "name": "wiki/alloweditor/del",
+      "fields": [
+        "basepath_subreddit",
+        "basepath_act",
+        "act",
+        "page",
+        "uh",
+        "username"
+      ]
+    },
+    "wiki/alloweditor/add": {
+      "method": "post",
+      "url": "api/wiki/alloweditor/add",
+      "name": "wiki/alloweditor/add",
+      "fields": [
+        "basepath_subreddit",
+        "basepath_act",
+        "act",
+        "page",
+        "uh",
+        "username"
+      ]
+    },
+    "wiki/edit": {
+      "method": "post",
+      "url": "api/wiki/edit",
+      "name": "wiki/edit",
+      "fields": [
+        "basepath_subreddit",
+        "content",
+        "page",
+        "previous",
+        "reason",
+        "uh"
+      ]
+    },
+    "wiki/hide": {
+      "method": "post",
+      "url": "api/wiki/hide",
+      "name": "wiki/hide",
+      "fields": [
+        "basepath_subreddit",
+        "page",
+        "revision",
+        "uh"
+      ]
+    },
+    "wiki/revert": {
+      "method": "post",
+      "url": "api/wiki/revert",
+      "name": "wiki/revert",
+      "fields": [
+        "basepath_subreddit",
+        "page",
+        "revision",
+        "uh"
+      ]
+    },
+    "wiki/discussions/page": {
+      "method": "get",
+      "url": "wiki/discussions/page",
+      "name": "wiki/discussions/page",
+      "fields": [
+        "basepath_subreddit",
+        "basepath_page",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "page",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "wiki/pages": {
+      "method": "get",
+      "url": "wiki/pages",
+      "name": "wiki/pages",
+      "fields": [
+        "basepath_subreddit"
+      ]
+    },
+    "wiki/revisions": {
+      "method": "get",
+      "url": "wiki/revisions",
+      "name": "wiki/revisions",
+      "fields": [
+        "basepath_subreddit",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "wiki/revisions/page": {
+      "method": "get",
+      "url": "wiki/revisions/page",
+      "name": "wiki/revisions/page",
+      "fields": [
+        "basepath_subreddit",
+        "basepath_page",
+        "after",
+        "before",
+        "count",
+        "limit",
+        "page",
+        "show",
+        "sr_detail"
+      ]
+    },
+    "wiki/settings/page": {
+      "method": "post",
+      "url": "wiki/settings/page",
+      "name": "wiki/settings/page",
+      "fields": [
+        "basepath_subreddit",
+        "basepath_page",
+        "listed",
+        "page",
+        "permlevel",
+        "uh"
+      ]
+    },
+    "wiki/page": {
+      "method": "get",
+      "url": "wiki/page",
+      "name": "wiki/page",
+      "fields": [
+        "basepath_subreddit",
+        "basepath_page",
+        "page",
+        "v",
+        "v2"
+      ]
+    }
+  }
+}
