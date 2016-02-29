@@ -31,7 +31,7 @@ module Reddit
       end
 
       # Generate the batch functions on GET endpoints for listings (As other endpoints tend to output different data formats)
-      if hash["method"] == "get" && module_name == :Listings
+      if hash["method"] == "get" && module_name == "Listings"
         batch_name = "batch_#{hash["name"].split("/").join("_")}"
         new_module.define_singleton_method(batch_name) do |user, options = {}|
           Reddit::Internal::Processor.batch_call(module_name, method_name, user, options)
