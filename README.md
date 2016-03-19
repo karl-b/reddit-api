@@ -103,6 +103,13 @@ posted_urls.reject! {|k,v| v < 2 }
 puts JSON.pretty_generate(posted_urls)
 ```
 
+## One Offs
+
+The endpoint for moderator messages is not defined in the API docs but can be found under:
+
+```ruby
+Reddit::Services::PrivateMessages.get_message_moderator user, basepath_subreddit: "worldnews"
+```
 
 ## Contributing
 

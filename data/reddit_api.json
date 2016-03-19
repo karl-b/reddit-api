@@ -14,7 +14,7 @@
       "url": "api/v1/revoke_token",
       "name": "revoke_token",
       "fields": [
-        
+
       ]
     }
   },
@@ -964,6 +964,14 @@
         "limit",
         "show",
         "sr_detail"
+      ]
+    },
+    "message/moderator": {
+      "method": "get",
+      "url": "message/moderator",
+      "name": "message/moderator",
+      "fields": [
+        "basepath_subreddit"
       ]
     }
   },
