@@ -44,6 +44,11 @@ module Reddit
       end
 
 
+      # String used in the User-Agent field of the request header
+      def user_agent
+        "ruby-reddit-api:#{user_agent_title}"
+      end
+
       # Signs In A User, Making The Connection Active
       def sign_in()
 
@@ -51,6 +56,7 @@ module Reddit
         response = JSON.parse(RestClient::Request.execute(method: :post,
                                                           url: "https://www.reddit.com/#{Reddit::Services::REFERENCE["Auth"]["access_token"]["url"]}",
                                                           payload: "grant_type=password&username=#{@username}&password=#{@password}",
+                                                          headers: {"User-Agent" => user_agent},
                                                           user: @client_id, password: @secret))
 
 
@@ -74,6 +80,7 @@ module Reddit
           response = RestClient::Request.execute(method: :post,
                                                  url: "https://www.reddit.com/#{Reddit::Services::REFERENCE["Auth"]["revoke_token"]["url"]}",
                                                  payload: "token=#{@token}",
+                                                 headers: {"User-Agent" => user_agent},
                                                 user: @client_id, password: @secret)
 
           Reddit::Internal::Logger.log.debug "Sign Out Response: #{response}"
@@ -91,6 +98,7 @@ module Reddit
         response = JSON.parse(RestClient::Request.execute(method: :post,
                                                           url: "https://www.reddit.com/#{Reddit::Services::REFERENCE["Auth"]["access_token"]["url"]}",
                                                           payload: "grant_type=refresh_token&refresh_token=#{@token}",
+                                                          headers: {"User-Agent" => user_agent},
                                                           user: @client_id, password: @secret))
 
         Reddit::Internal::Logger.log.debug "Refresh Response:"
@@ -125,7 +133,7 @@ module Reddit
         retries = @max_retries
         begin
           response = JSON.parse(RestClient::Request.execute(method: method, url: url, payload: payload,
-                                                            headers: {"Authorization" => "bearer #{token}", "User-Agent" => "ruby-reddit-api:#{user_agent_title}"} ))
+                                                            headers: {"Authorization" => "bearer #{token}", "User-Agent" => user_agent} ))
         rescue StandardError => e
           retry unless (retries -= 1).zero?
           raise e
