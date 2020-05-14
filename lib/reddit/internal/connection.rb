@@ -44,13 +44,32 @@ module Reddit
       end
 
 
+      # Returns true if Connection has username set
+      def user_credentials?
+        !@username.to_s.empty?
+      end
+
+
+      # Returns string used for logging what type of connection we have
+      def user_description
+        user_credentials? ? "User #{@username}" : "Client"
+      end
+
+
       # Signs In A User, Making The Connection Active
       def sign_in()
 
-        Reddit::Internal::Logger.log.debug "Signing In User #{@username} with client_id #{@client_id}..."
+        Reddit::Internal::Logger.log.debug "Signing In #{user_description} with client_id #{@client_id}..."
+
+        payload = if user_credentials?
+          "grant_type=password&username=#{@username}&password=#{@password}"
+        else
+          "grant_type=client_credentials"
+        end
+
         response = JSON.parse(RestClient::Request.execute(method: :post,
                                                           url: "https://www.reddit.com/#{Reddit::Services::REFERENCE["Auth"]["access_token"]["url"]}",
-                                                          payload: "grant_type=password&username=#{@username}&password=#{@password}",
+                                                          payload: payload,
                                                           user: @client_id, password: @secret))
 
 
@@ -70,7 +89,7 @@ module Reddit
       # Signs Out A User, Killing the connection
       def sign_out()
         if @token
-          Reddit::Internal::Logger.log.debug "Signing Out User #{@username} with client_id #{@client_id}..."
+          Reddit::Internal::Logger.log.debug "Signing Out #{user_description} with client_id #{@client_id}..."
           response = RestClient::Request.execute(method: :post,
                                                  url: "https://www.reddit.com/#{Reddit::Services::REFERENCE["Auth"]["revoke_token"]["url"]}",
                                                  payload: "token=#{@token}",
@@ -78,7 +97,7 @@ module Reddit
 
           Reddit::Internal::Logger.log.debug "Sign Out Response: #{response}"
 
-          Reddit::Internal::Logger.log.info "Signed Out User #{@username}"
+          Reddit::Internal::Logger.log.info "Signed Out #{user_description}"
           @token = nil
         else
 
@@ -87,7 +106,7 @@ module Reddit
 
       # Refreshes a token (BROKEN? 400 bad request, possibly due to token still being valid...)
       def refresh()
-        Reddit::Internal::Logger.log.debug "Refreshing Token For User #{@username} with client_id #{@client_id}"
+        Reddit::Internal::Logger.log.debug "Refreshing Token For #{user_description} with client_id #{@client_id}"
         response = JSON.parse(RestClient::Request.execute(method: :post,
                                                           url: "https://www.reddit.com/#{Reddit::Services::REFERENCE["Auth"]["access_token"]["url"]}",
                                                           payload: "grant_type=refresh_token&refresh_token=#{@token}",
@@ -107,7 +126,7 @@ module Reddit
 
         refresh() if @token_expiration < Time.now.to_f
 
-        Reddit::Internal::Logger.log.debug "Reqest From User #{@username}, method: #{method}, url: #{url}"
+        Reddit::Internal::Logger.log.debug "Reqest From #{user_description}, method: #{method}, url: #{url}"
 
         if @request_throttle
           Reddit::Internal::Logger.log.debug "Request Throttling Enabled, Processing Request at #{Time.now.to_f}, Last Call: #{@last_request_time}..."
