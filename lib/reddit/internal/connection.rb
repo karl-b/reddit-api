@@ -44,13 +44,26 @@ module Reddit
       end
 
 
+      # Returns true if Connection has username set
+      def user_credentials?
+        !@username.to_s.empty?
+      end
+
+
       # Signs In A User, Making The Connection Active
       def sign_in()
 
         Reddit::Internal::Logger.log.debug "Signing In User #{@username} with client_id #{@client_id}..."
+
+        payload = if user_credentials?
+          "grant_type=password&username=#{@username}&password=#{@password}"
+        else
+          "grant_type=client_credentials"
+        end
+
         response = JSON.parse(RestClient::Request.execute(method: :post,
                                                           url: "https://www.reddit.com/#{Reddit::Services::REFERENCE["Auth"]["access_token"]["url"]}",
-                                                          payload: "grant_type=password&username=#{@username}&password=#{@password}",
+                                                          payload: payload,
                                                           user: @client_id, password: @secret))
 
 
