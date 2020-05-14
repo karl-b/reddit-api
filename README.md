@@ -111,6 +111,18 @@ The endpoint for moderator messages is not defined in the API docs but can be fo
 Reddit::Services::PrivateMessages.get_message_moderator user, basepath_subreddit: "worldnews"
 ```
 
+## Client Credentials
+
+The Reddit API supports a client_credentials grant type, that allows access without a username/password.
+
+When using client_credentials, you are not allowed to post or make comments with the API; it is read-only.
+
+To connect using client_credentials, provide a `nil` or empty string for username and password:
+
+```ruby
+user = Reddit::Services::User.new nil, nil, "script_id", "script_secret", "User Agent Title"
+```
+
 ## Contributing
 
 To run rspec a file for configuring a user is required:
